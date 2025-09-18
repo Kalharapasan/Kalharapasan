@@ -29,6 +29,28 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=dark" alt="kalharapasan" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=dark" alt="kalharapasan" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark" alt="kalharapasan" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Kalharapasan">Kalharapasan</a></i>
+</div>
+
 ## 🚀 About Me
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalharapasan](https://github.com/Kalharapasan)
@@ -205,26 +227,3 @@
 
 <br/>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=dark" alt="kalharapasan" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=dark" alt="kalharapasan" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark" alt="kalharapasan" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Kalharapasan">Kalharapasan</a></i>
-</div>
