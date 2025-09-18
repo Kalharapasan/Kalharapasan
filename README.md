@@ -19,11 +19,22 @@
 
 <br/>
 
-<!-- Enhanced Animated Coding GIF with Multiple Effects -->
+<!-- Side-by-Side Animated Coding GIFs -->
 <div align="center">
-  <img alt="Matrix Code Rain" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-  <br/>
-  <img alt="Hacker Typing" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="Matrix Code Rain" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+        <br/>
+        <sub><b>Matrix Code Rain</b></sub>
+      </td>
+      <td align="center">
+        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+        <br/>
+        <sub><b>Developer in Action</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
