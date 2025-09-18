@@ -27,8 +27,7 @@
             **⚡ Quick Facts**
             - 📍 Based in Sri Lanka 🇱🇰
             - 💼 Available for exciting opportunities
-            - 🎨 UI/UX enthusiast
-            - ☕ Coffee-powered developer
+            - 🎨 UI/UX enthusiast 
             - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
             - 📧 **How to reach me** kalharap84@gmail.com
             - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
