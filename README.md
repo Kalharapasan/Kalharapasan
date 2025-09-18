@@ -6,7 +6,26 @@
   <!-- Animated Header with Gradient Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
   
-  
+  <!-- Animated About Me Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
+
+- 🎓 **Currently studying** Software Engineering
+
+- 🌱 **Currently learning** Cloud Technologies & DevOps
+
+- 💬 **Ask me about** Full Stack Development, Mobile Apps, and Open Source
+
+- 📧 **How to reach me** kalharap84@gmail.com
+
+- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
+
+<br/>
   
   <!-- Matrix Rain Effect -->
   <div align="center">
@@ -100,26 +119,7 @@
 
 <br/>
 
-<!-- Animated About Me Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
-
-- 🎓 **Currently studying** Software Engineering
-
-- 🌱 **Currently learning** Cloud Technologies & DevOps
-
-- 💬 **Ask me about** Full Stack Development, Mobile Apps, and Open Source
-
-- 📧 **How to reach me** kalharap84@gmail.com
-
-- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
-
-<br/>
 
 <!-- Enhanced Social Connect Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
