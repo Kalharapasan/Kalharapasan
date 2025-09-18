@@ -31,9 +31,7 @@
 - 🎨 UI/UX enthusiast
 - ☕ Coffee-powered developer
 
-      </td>
-      <td valign="top" width="50%">
-        <!-- Side-by-Side Animated Coding GIFs -->
+      <!-- Side-by-Side Animated Coding GIFs -->
 <div align="center">
   <table>
     <tr>
@@ -46,10 +44,6 @@
         <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
         <br/>
         <sub><b>Developer in Action</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
       </td>
     </tr>
   </table>
