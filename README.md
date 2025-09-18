@@ -64,17 +64,17 @@
   <table>
     <tr>
       <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kalharapasan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Profile Views Counter with Style -->
@@ -155,12 +155,12 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kalharapasan&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <!-- Coding Time Stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=radical" alt="Profile Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=tokyonight" alt="Profile Summary Cards" />
 </div>
 
 <!-- Inspirational Quote -->
@@ -170,7 +170,11 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
+**📊 Contribution Snake**
+  
+![Snake animation](https://github.com/kalharapasan/kalharapasan/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <!-- Footer with Modern Design -->
