@@ -10,22 +10,24 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
-<div align="left">
+<div align="center">
 <!-- About Section with Floating Cards Effect -->
 ## 🌟 About Me ##
+  <div align="left">
   <br/>
   **🎯 Current Focus**  <br/>
-            - 🔭 Building scalable web applications  <br/>
-            - 🌱 Exploring Cloud-Native technologies    <br/>
-            - 🎓 Studying Software Engineering   <br/>
-            - 💡 Contributing to Open Source projects   <br/>
+           <t/> - 🔭 Building scalable web applications  <br/>
+            <t/> - 🌱 Exploring Cloud-Native technologies    <br/>
+             <t/>- 🎓 Studying Software Engineering   <br/>
+            <t/> - 💡 Contributing to Open Source projects   <br/>
+    <div align="Left">
 **⚡ Quick Facts**  <br/>
-            - 📍 Based in Sri Lanka 🇱🇰  <br/>
-            - 💼 Available for exciting opportunities  <br/>
-            - 🎨 UI/UX enthusiast   <br/>
-            - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)  <br/>
-            - 📧 **How to reach me** kalharap84@gmail.com  <br/>
-            - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!  <br/>
+             <t/>- 📍 Based in Sri Lanka 🇱🇰  <br/>
+             <t/>- 💼 Available for exciting opportunities  <br/>
+             <t/>- 🎨 UI/UX enthusiast   <br/>
+            <t/> - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)  <br/>
+            <t/> - 📧 **How to reach me** kalharap84@gmail.com  <br/>
+             <t/>- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!  <br/>
 
 
 <!-- Side-by-Side Animated Coding GIFs -->
