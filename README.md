@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 <!-- About Section with Floating Cards Effect -->
-## 🌟 About Me
+## 🌟 About Me ##
   **🎯 Current Focus**
             - 🔭 Building scalable web applications
             - 🌱 Exploring Cloud-Native technologies  
