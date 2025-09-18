@@ -32,13 +32,7 @@
             - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
             - 📧 **How to reach me** kalharap84@gmail.com
             - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
-      </td>
-      <td valign="top" width="50%">
-        <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <!-- Side-by-Side Animated Coding GIFs -->
 <div align="center">
