@@ -3,17 +3,12 @@
   <!-- Animated Header with Gradient Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
   
-  <!-- Enhanced Snake Animation with Multiple Effects -->
+  <!-- Working Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
   </picture>
-  
-  <!-- Animated Contribution Stats -->
-  <div align="center">
-    <img src="https://github-readme-streak-stats.demolab.com?user=kalharapasan&theme=neon-dark&hide_border=true&stroke=00ff00&background=000000&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="Animated Streak" />
-  </div>
   
   <!-- Matrix Rain Effect -->
   <div align="center">
@@ -85,14 +80,14 @@
 
 <br/>
 
-<!-- Enhanced GitHub Streak Stats with Neon Theme -->
+<!-- Enhanced GitHub Streak Stats with Working URLs -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=neon-palenight&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Neon" />
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
-<!-- Real-time Coding Activity -->
+<!-- Working Real-time Coding Activity -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark&hide_border=true" alt="Contribution Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
 
 <br/>
@@ -233,22 +228,17 @@
 ## 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity%20Heatmap&theme=github-compact" alt="GitHub Activity Graph Neon" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
-<!-- 3D Contribution Stats -->
+<!-- Working GitHub Stats -->
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/svg?username=kalharapasan&color=00ff00&background=000000&stroke=00ff00&stroke-width=2&stroke-opacity=0.8" alt="3D Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=kalharapasan&theme=dark&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00" alt="Pinned Repo" />
 </div>
 
-<!-- Animated Programming Stats -->
+<!-- Simple Working Streak Counter -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=kalharapasan&count_private=true&theme=neon-dark&border_radius=20&border=00ff00&stroke=00ff00&background=000000&ring=ff6600&fire=ff6600&currStreakLabel=00ff00" alt="Animated Programming Stats" />
-</div>
-
-<!-- Dynamic Quote Generator -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=P.R.P.S.Kalhara" alt="Dynamic Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark&background=000000&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00" alt="Simple Streak Stats" />
 </div>
 
 <br/>
