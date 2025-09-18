@@ -3,13 +3,15 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
  
+  <!-- Working Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
+  </picture>
   
   
-  
-  <!-- Matrix Rain Effect -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:008f11&height=200&section=header&text=LOADING...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Initializing%20Developer%20Mode&descAlignY=70&descSize=15"/>
-  </div>
+
 
 </div>
 
