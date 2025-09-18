@@ -30,74 +30,17 @@
 - 💼 Available for exciting opportunities
 - 🎨 UI/UX enthusiast
 - ☕ Coffee-powered developer
+- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
+- 📧 **How to reach me** kalharap84@gmail.com
+- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img alt="Matrix Code Rain" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-        <br/>
-        <sub><b>Matrix Code Rain</b></sub>
       </td>
-      <td align="center">
-        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-        <br/>
-        <sub><b>Developer in Action</b></sub>
+      <td valign="top" width="50%">
+        <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
       </td>
     </tr>
   </table>
 </div>
-
-<!-- Animated Contact Section -->
-<div align="center">
-  <h3>🌐 Let's Connect & Collaborate</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000)](https://www.linkedin.com/in/pasan-kalhara/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=000000)](mailto:kalharap84@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=000000)](https://github.com/Kalharapasan)
-  
-</div>
-
-<!-- Enhanced Stats Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  
-  <!-- Animated Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-  <!-- Animated Header with Gradient Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
-  
-  <!-- Animated About Me Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
-
-- 🎓 **Currently studying** Software Engineering
-
-- 🌱 **Currently learning** Cloud Technologies & DevOps
-
-- 💬 **Ask me about** Full Stack Development, Mobile Apps, and Open Source
-
-- 📧 **How to reach me** kalharap84@gmail.com
-
-- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
-
-<br/>
-  
-  <!-- Matrix Rain Effect -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:008f11&height=200&section=header&text=LOADING...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Initializing%20Developer%20Mode&descAlignY=70&descSize=15"/>
-  </div>
-
-</div>
-
-<br/>
 
 <!-- Side-by-Side Animated Coding GIFs -->
 <div align="center">
@@ -117,7 +60,20 @@
   </table>
 </div>
 
-<br/>
+<!-- Matrix Rain Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:008f11&height=200&section=header&text=LOADING...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Initializing%20Developer%20Mode&descAlignY=70&descSize=15"/>
+</div>
+
+<!-- Animated Contact Section -->
+<div align="center">
+  <h3>🌐 Let's Connect & Collaborate</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalhara/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalharap84@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalharapasan)
+  
+</div>
 
 <!-- Enhanced Profile Views with Animated Badges -->
 <div align="center">
@@ -132,7 +88,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+future+with+code;💡+Turning+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Animated Banner" />
 </div>
 
-<br/>
+<!-- Enhanced Stats Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Enhanced Trophies with Animation -->
 <div align="center">
@@ -140,10 +97,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="kalharapasan" />
   </a>
 </div>
-
-<br/>
-
-
 
 ## 📊 GitHub Analytics
 
@@ -163,13 +116,6 @@
   </table>
 </div>
 
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalharapasan&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Coding Time" />
-</div>
-
-<br/>
-
 <!-- Enhanced GitHub Streak Stats with Working URLs -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
@@ -179,25 +125,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
-
-<br/>
-
-
-
-<!-- Enhanced Social Connect Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-## 🌐 Let's Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://www.linkedin.com/in/pasan-kalhara/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalharapasan)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalharap84@gmail.com)
-  
-</div>
-
-<br/>
 
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
@@ -288,31 +215,32 @@
   
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
-
-<br/>
 
 <!-- Enhanced Activity Graph with Neon Effects -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 📈 Contribution Heatmap
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
-<!-- Working GitHub Stats -->
+<!-- Inspirational Quote -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=kalharapasan&theme=dark&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00" alt="Pinned Repo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;✨+Let's+build+something+amazing+together!" alt="Quote Animation" />
 </div>
 
-<!-- Simple Working Streak Counter -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark&background=000000&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00" alt="Simple Streak Stats" />
-</div>
+  
+**📊 Contribution Snake**
+  
+![Snake animation](https://github.com/kalharapasan/kalharapasan/blob/output/github-contribution-grid-snake.svg)
 
-<br/>
+</div>
 
 <!-- Animated Footer with Particle Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff00&animation=blinking&fontAlignY=75&desc=Keep%20coding%2C%20keep%20growing!&descSize=12&descColor=ffffff&descAlignY=90"/>
@@ -332,118 +260,13 @@
   
   <!-- Visitor Counter with Animation -->
   <br/><br/>
-  <img src="https://profile-counter.glitch.me/kalharapasan/count.svg" alt="Visitor Counter" />
+  <img src="https://visitcount.itsvg.in/api?id=kalharapasan&label=Profile%20Views&color=6&icon=5&pretty=true" />
   
 </div>
 
 <!-- Matrix-style footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:008f11,100:00ff41&height=100&section=footer&animation=fadeIn"/>
-</div>
-
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Cloud
-
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ☁️ DevOps & Tools
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-### 🎨 Design Tools
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<!-- Activity Graph -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<!-- Coding Time Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=radical" alt="Profile Summary Cards" />
-</div>
-
-<!-- Inspirational Quote -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;✨+Let's+build+something+amazing+together!" alt="Quote Animation" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<!-- Footer with Modern Design -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-  
-  <br/>
-  
-  **Made with ❤️ and lots of ☕**
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-  
-  <br/><br/>
-  
-  <!-- Visitor Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=kalharapasan&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  
 </div>
 
 ---
