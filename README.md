@@ -13,18 +13,19 @@
 <div align="center">
 <!-- About Section with Floating Cards Effect -->
 ## 🌟 About Me ##
-  **🎯 Current Focus**
-            - 🔭 Building scalable web applications
-            - 🌱 Exploring Cloud-Native technologies  
-            - 🎓 Studying Software Engineering
-            - 💡 Contributing to Open Source projects
-**⚡ Quick Facts**
-            - 📍 Based in Sri Lanka 🇱🇰
-            - 💼 Available for exciting opportunities
-            - 🎨 UI/UX enthusiast 
-            - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
-            - 📧 **How to reach me** kalharap84@gmail.com
-            - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
+  <br/>
+  **🎯 Current Focus**  <br/>
+            - 🔭 Building scalable web applications  <br/>
+            - 🌱 Exploring Cloud-Native technologies    <br/>
+            - 🎓 Studying Software Engineering   <br/>
+            - 💡 Contributing to Open Source projects   <br/>
+**⚡ Quick Facts**  <br/>
+            - 📍 Based in Sri Lanka 🇱🇰  <br/>
+            - 💼 Available for exciting opportunities  <br/>
+            - 🎨 UI/UX enthusiast   <br/>
+            - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)  <br/>
+            - 📧 **How to reach me** kalharap84@gmail.com  <br/>
+            - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!  <br/>
 
 
 <!-- Side-by-Side Animated Coding GIFs -->
