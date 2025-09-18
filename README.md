@@ -6,12 +6,7 @@
   <!-- Animated Header with Gradient Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
   
-  <!-- Working Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
-  </picture>
+  
   
   <!-- Matrix Rain Effect -->
   <div align="center">
