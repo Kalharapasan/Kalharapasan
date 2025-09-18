@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P.R.P.S.Kalhara</h1>
 <h3 align="center">💻 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 <img align="right" alt"coding" width="400" src="https://github.com/user-attachments/assets/10eb5af6-7eb0-4915-a7b5-f6291ecac109">
-"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20views&color=0e75b6&style=flat" alt="kalharapasan" /> </p>
 
