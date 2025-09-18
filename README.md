@@ -14,17 +14,15 @@
 <!-- About Section with Floating Cards Effect -->
 ## 🌟 About Me
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="top" width="50%">
-            **🎯 Current Focus**
+<div align="center">           
+        **🎯 Current Focus**
             - 🔭 Building scalable web applications
             - 🌱 Exploring Cloud-Native technologies  
             - 🎓 Studying Software Engineering
             - 💡 Contributing to Open Source projects
             
-            **⚡ Quick Facts**
+           
+          **⚡ Quick Facts**
             - 📍 Based in Sri Lanka 🇱🇰
             - 💼 Available for exciting opportunities
             - 🎨 UI/UX enthusiast 
