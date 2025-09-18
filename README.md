@@ -49,10 +49,7 @@
   </table>
 </div>
 
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:008f11&height=200&section=header&text=LOADING...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Initializing%20Developer%20Mode&descAlignY=70&descSize=15"/>
-</div>
+
 
 <!-- Animated Contact Section -->
 <div align="center">
