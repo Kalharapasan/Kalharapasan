@@ -41,12 +41,9 @@
       <td align="center">
         <img alt="Matrix Code Rain" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
         <br/>
-        <sub><b>Matrix Code Rain</b></sub>
       </td>
       <td align="center">
-        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-        <br/>
-        <sub><b>Developer in Action</b></sub>
+        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">  
       </td>
     </tr>
   </table>
