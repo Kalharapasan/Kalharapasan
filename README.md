@@ -3,28 +3,47 @@
   <!-- Animated Header with Gradient Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
   
-  <!-- Snake Animation -->
+  <!-- Enhanced Snake Animation with Multiple Effects -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <!-- Animated Contribution Stats -->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.demolab.com?user=kalharapasan&theme=neon-dark&hide_border=true&stroke=00ff00&background=000000&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="Animated Streak" />
+  </div>
+  
+  <!-- Matrix Rain Effect -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:008f11&height=200&section=header&text=LOADING...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Initializing%20Developer%20Mode&descAlignY=70&descSize=15"/>
+  </div>
 
 </div>
 
 <br/>
 
-<!-- Animated Coding GIF -->
+<!-- Enhanced Animated Coding GIF with Multiple Effects -->
 <div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img alt="Matrix Code Rain" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+  <br/>
+  <img alt="Hacker Typing" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 <br/>
 
-<!-- Profile Views with Custom Badge -->
+<!-- Enhanced Profile Views with Animated Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="kalharapasan" />
-  <img src="https://img.shields.io/github/followers/kalharapasan?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
+</div>
+
+<!-- Animated Text Banners -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+future+with+code;💡+Turning+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Animated Banner" />
 </div>
 
 <br/>
@@ -43,26 +62,37 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Dynamic Stats with Animated Charts -->
 <div align="center">
   <table>
     <tr>
-      <!-- Left side - Top Languages -->
+      <!-- Left side - Animated Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="kalharapasan" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
       </td>
-      <!-- Right side - GitHub Stats -->
+      <!-- Right side - Enhanced GitHub Stats -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="kalharapasan" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
 
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalharapasan&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Coding Time" />
+</div>
+
 <br/>
 
-<!-- GitHub Streak Stats with Custom Theme -->
+<!-- Enhanced GitHub Streak Stats with Neon Theme -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=neon-palenight&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Neon" />
+</div>
+
+<!-- Real-time Coding Activity -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark&hide_border=true" alt="Contribution Summary" />
 </div>
 
 <br/>
@@ -197,25 +227,55 @@
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- Enhanced Activity Graph with Neon Effects -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 📈 Contribution Graph
+## 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity%20Heatmap&theme=github-compact" alt="GitHub Activity Graph Neon" />
+</div>
+
+<!-- 3D Contribution Stats -->
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/svg?username=kalharapasan&color=00ff00&background=000000&stroke=00ff00&stroke-width=2&stroke-opacity=0.8" alt="3D Contributions" />
+</div>
+
+<!-- Animated Programming Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=kalharapasan&count_private=true&theme=neon-dark&border_radius=20&border=00ff00&stroke=00ff00&background=000000&ring=ff6600&fire=ff6600&currStreakLabel=00ff00" alt="Animated Programming Stats" />
+</div>
+
+<!-- Dynamic Quote Generator -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=P.R.P.S.Kalhara" alt="Dynamic Quote" />
 </div>
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<!-- Animated Footer with Particle Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff00&animation=blinking&fontAlignY=75&desc=Keep%20coding%2C%20keep%20growing!&descSize=12&descColor=ffffff&descAlignY=90"/>
 
 <div align="center">
   
-  **✨ Made with ❤️ by [P.R.P.S.Kalhara](https://github.com/Kalharapasan) ✨**
+  <!-- Animated Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
+  
+  <br/><br/>
+  
+  **⚡ Powered by Passion & Coffee ⚡**
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown">
   
+  <!-- Visitor Counter with Animation -->
+  <br/><br/>
+  <img src="https://profile-counter.glitch.me/kalharapasan/count.svg" alt="Visitor Counter" />
+  
+</div>
+
+<!-- Matrix-style footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:008f11,100:00ff41&height=100&section=footer&animation=fadeIn"/>
 </div>
