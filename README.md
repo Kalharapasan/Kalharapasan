@@ -18,22 +18,20 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" width="50%">
-        
-**🎯 Current Focus**
-- 🔭 Building scalable web applications
-- 🌱 Exploring Cloud-Native technologies  
-- 🎓 Studying Software Engineering
-- 💡 Contributing to Open Source projects
-
-**⚡ Quick Facts**
-- 📍 Based in Sri Lanka 🇱🇰
-- 💼 Available for exciting opportunities
-- 🎨 UI/UX enthusiast
-- ☕ Coffee-powered developer
-- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
-- 📧 **How to reach me** kalharap84@gmail.com
-- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
-
+            **🎯 Current Focus**
+            - 🔭 Building scalable web applications
+            - 🌱 Exploring Cloud-Native technologies  
+            - 🎓 Studying Software Engineering
+            - 💡 Contributing to Open Source projects
+            
+            **⚡ Quick Facts**
+            - 📍 Based in Sri Lanka 🇱🇰
+            - 💼 Available for exciting opportunities
+            - 🎨 UI/UX enthusiast
+            - ☕ Coffee-powered developer
+            - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
+            - 📧 **How to reach me** kalharap84@gmail.com
+            - ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
       </td>
       <td valign="top" width="50%">
         <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -238,10 +236,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
   
-**📊 Contribution Snake**
-  
-![Snake animation](https://github.com/kalharapasan/kalharapasan/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <!-- Animated Footer with Particle Effect -->
@@ -252,31 +246,3 @@
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
   
-  <br/><br/>
-  
-  **⚡ Powered by Passion & Coffee ⚡**
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown">
-  
-  <!-- Visitor Counter with Animation -->
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=kalharapasan&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  
-</div>
-
-<!-- Matrix-style footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:008f11,100:00ff41&height=100&section=footer&animation=fadeIn"/>
-</div>
-
----
-
-<div align="center">
-  
-  **🚀 "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb**
-  
-  *Keep coding, keep growing! 🌱*
-  
-</div>
