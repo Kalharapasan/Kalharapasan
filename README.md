@@ -5,7 +5,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=P.R.P.S.%20Kalhara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55"/>
 
   <!-- Dynamic Typing Animation with Gradient -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+digital+universe;💫+Crafting+code+that+makes+a+difference;🚀+Building+tomorrow's+solutions+today;⚡+Always+learning%2C+always+innovating" alt="Animated Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=ðŸ‘‹+Welcome+to+my+digital+universe;ðŸ’«+Crafting+code+that+makes+a+difference;ðŸš€+Building+tomorrow's+solutions+today;âš¡+Always+learning%2C+always+innovating" alt="Animated Introduction" />
   
   <!-- Glowing Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -14,26 +14,26 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
   <!-- Animated Header with Gradient Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋%2C+I'm+P.R.P.S.Kalhara;💻+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+ðŸ‘‹%2C+I'm+P.R.P.S.Kalhara;ðŸ’»+Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
   
   <!-- Animated About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🚀 About Me
+## ðŸš€ About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
+- ðŸ‘¨â€ðŸ’» **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)
 
-- 🎓 **Currently studying** Software Engineering
+- ðŸŽ“ **Currently studying** Software Engineering
 
-- 🌱 **Currently learning** Cloud Technologies & DevOps
+- ðŸŒ± **Currently learning** Cloud Technologies & DevOps
 
-- 💬 **Ask me about** Full Stack Development, Mobile Apps, and Open Source
+- ðŸ’¬ **Ask me about** Full Stack Development, Mobile Apps, and Open Source
 
-- 📧 **How to reach me** kalharap84@gmail.com
+- ðŸ“§ **How to reach me** kalharap84@gmail.com
 
-- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!
+- âš¡ **Fun fact** I love exploring new technologies and building innovative solutions!
 
 <br/>
   
@@ -46,24 +46,24 @@
 </div>
 
 <!-- About Section with Floating Cards Effect -->
-## 🌟 About Me
+## ðŸŒŸ About Me
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" width="50%">
         
-**🎯 Current Focus**
-- 🔭 Building scalable web applications
-- 🌱 Exploring Cloud-Native technologies  
-- 🎓 Studying Software Engineering
-- 💡 Contributing to Open Source projects
+**ðŸŽ¯ Current Focus**
+- ðŸ”­ Building scalable web applications
+- ðŸŒ± Exploring Cloud-Native technologies  
+- ðŸŽ“ Studying Software Engineering
+- ðŸ’¡ Contributing to Open Source projects
 
-**⚡ Quick Facts**
-- 📍 Based in Sri Lanka 🇱🇰
-- 💼 Available for exciting opportunities
-- 🎨 UI/UX enthusiast
-- ☕ Coffee-powered developer
+**âš¡ Quick Facts**
+- ðŸ“ Based in Sri Lanka ðŸ‡±ðŸ‡°
+- ðŸ’¼ Available for exciting opportunities
+- ðŸŽ¨ UI/UX enthusiast
+- â˜• Coffee-powered developer
 
       </td>
       <td valign="top" width="50%">
@@ -89,7 +89,7 @@
 <!-- Animated Text Banners -->
 >>>>>>> ce7a7a8ebbf9309d4d3232c104f6393274a0d802
 <div align="center">
-  <h3>🌐 Let's Connect & Collaborate</h3>
+  <h3>ðŸŒ Let's Connect & Collaborate</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000)](https://www.linkedin.com/in/pasan-kalhara/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=000000)](mailto:kalharap84@gmail.com)
@@ -100,7 +100,7 @@
 <!-- Enhanced Stats Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics Dashboard
+## ðŸ“Š GitHub Analytics Dashboard
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kalharapasan&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -136,7 +136,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <<<<<<< HEAD
-## 🛠️ Technology Stack
+## ðŸ› ï¸ Technology Stack
 =======
 <br/>
 
@@ -145,7 +145,7 @@
 <!-- Enhanced Social Connect Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🌐 Let's Connect
+## ðŸŒ Let's Connect
 
 <div align="center">
   
@@ -160,9 +160,9 @@
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🛠️ Tech Arsenal
+## ðŸ› ï¸ Tech Arsenal
 
-### 💻 Programming Languages
+### ðŸ’» Programming Languages
 <div align="center">
   
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -176,7 +176,7 @@
   
 </div>
 
-### 🌐 Web Development
+### ðŸŒ Web Development
 <div align="center">
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -187,7 +187,7 @@
   
 </div>
 
-### ⚙️ Backend & Frameworks
+### âš™ï¸ Backend & Frameworks
 <div align="center">
   
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -199,7 +199,7 @@
   
 </div>
 
-### 🗄️ Databases
+### ðŸ—„ï¸ Databases
 <div align="center">
   
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -211,7 +211,7 @@
   
 </div>
 
-### 📱 Mobile Development
+### ðŸ“± Mobile Development
 <div align="center">
   
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -221,7 +221,7 @@
   
 </div>
 
-### ☁️ Cloud & DevOps
+### â˜ï¸ Cloud & DevOps
 <div align="center">
   
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -230,7 +230,7 @@
   
 </div>
 
-### 🛠️ Tools & Others
+### ðŸ› ï¸ Tools & Others
 <div align="center">
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -241,7 +241,7 @@
   
 </div>
 
-### 🎨 Design Tools
+### ðŸŽ¨ Design Tools
 <div align="center">
   
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -254,12 +254,12 @@
 <!-- Enhanced Activity Graph with Neon Effects -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 📈 Contribution Heatmap
+## ðŸ“ˆ Contribution Heatmap
 >>>>>>> ce7a7a8ebbf9309d4d3232c104f6393274a0d802
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### ðŸ’» Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -269,7 +269,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Frontend Development
+### ðŸŒ Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -277,7 +277,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Cloud
+### âš™ï¸ Backend & Cloud
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -286,7 +286,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 🗄️ Databases
+### ðŸ—„ï¸ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -294,14 +294,14 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### 📱 Mobile Development
+### ðŸ“± Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### ☁️ DevOps & Tools
+### â˜ï¸ DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -309,7 +309,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### 🎨 Design Tools
+### ðŸŽ¨ Design Tools
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -320,7 +320,7 @@
 <!-- Activity Graph -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Activity
+## ðŸ“ˆ Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
@@ -342,11 +342,11 @@
 <div align="center">
   
   <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=âœ¨+Made+with+â¤ï¸+and+lots+of+â˜•;ðŸš€+Always+ready+for+new+challenges!;ðŸ’»+Let's+build+something+amazing!" alt="Footer Animation" />
   
   <br/><br/>
   
-  **⚡ Powered by Passion & Coffee ⚡**
+  **âš¡ Powered by Passion & Coffee âš¡**
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
@@ -361,7 +361,7 @@
 <!-- Matrix-style footer -->
 >>>>>>> ce7a7a8ebbf9309d4d3232c104f6393274a0d802
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;✨+Let's+build+something+amazing+together!" alt="Quote Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=ðŸ’¡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;âœ¨+Let's+build+something+amazing+together!" alt="Quote Animation" />
 </div>
 
 <!-- Snake Animation -->
@@ -375,7 +375,7 @@
   
   <br/>
   
-  **Made with ❤️ and lots of ☕**
+  **Made with â¤ï¸ and lots of â˜•**
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
@@ -391,8 +391,8 @@
 
 <div align="center">
   
-  **🚀 "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb**
+  **ðŸš€ "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb**
   
-  *Keep coding, keep growing! 🌱*
+  *Keep coding, keep growing! ðŸŒ±*
   
 </div>
