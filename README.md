@@ -10,13 +10,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+<div align="center">
+<!-- About Section with Floating Cards Effect -->
+## 🌟 About Me ##
+  <div align="left">
+  <br/>
+  **🎯 Current Focus**  <br/>
+           <t/> - 🔭 Building scalable web applications  <br/>
+            <t/> - 🌱 Exploring Cloud-Native technologies    <br/>
+             <t/>- 🎓 Studying Software Engineering   <br/>
+            <t/> - 💡 Contributing to Open Source projects   <br/>
+    <div align="Left">
+**⚡ Quick Facts**  <br/>
+             <t/>- 📍 Based in Sri Lanka 🇱🇰  <br/>
+             <t/>- 💼 Available for exciting opportunities  <br/>
+             <t/>- 🎨 UI/UX enthusiast   <br/>
+            <t/> - 👨‍💻 **All of my projects are available at** [GitHub](https://github.com/Kalharapasan)  <br/>
+            <t/> - 📧 **How to reach me** kalharap84@gmail.com  <br/>
+             <t/>- ⚡ **Fun fact** I love exploring new technologies and building innovative solutions!  <br/>
 
+<<<<<<< HEAD
 <!-- About Section with Floating Cards Effect -->
 ## 🌟 About Me
+=======
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
+<<<<<<< HEAD
       <td valign="top" width="50%">
         
 **🎯 Current Focus**
@@ -34,11 +56,34 @@
       </td>
       <td valign="top" width="50%">
         <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+=======
+      <td align="center">
+        <img alt="Matrix Code Rain" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+        <br/>
+      </td>
+      <td align="center">
+        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">  
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
       </td>
     </tr>
   </table>
 </div>
 
+<<<<<<< HEAD
+=======
+
+
+<!-- Animated Contact Section -->
+<div align="center">
+  <h3>🌐 Let's Connect & Collaborate</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasan-kalhara/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalharap84@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalharapasan)
+  
+</div>
+
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 <!-- Enhanced Profile Views with Animated Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
@@ -66,8 +111,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kalharapasan&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-<br/>
+<!-- Enhanced Stats Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<<<<<<< HEAD
+=======
+<!-- Enhanced Trophies with Animation -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="kalharapasan" />
+  </a>
+</div>
+
+## 📊 GitHub Analytics
+
+<!-- Dynamic Stats with Animated Charts -->
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 <div align="center">
   <table>
     <tr>
@@ -81,6 +140,7 @@
   </table>
 </div>
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak Stats" />
 </div>
@@ -91,6 +151,22 @@
 ## 🛠️ Technology Stack
 
 <div align="center">
+=======
+<!-- Enhanced GitHub Streak Stats with Working URLs -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Working Real-time Coding Activity -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<!-- Tech Stack with Enhanced Visuals -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+## 🛠️ Tech Arsenal
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 
 ### 💻 Programming Languages
 
@@ -151,6 +227,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 🎨 Design Tools
+<<<<<<< HEAD
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -160,6 +237,18 @@
 
 <!-- Activity Graph -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+=======
+<div align="center">
+  
+  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
+</div>
+
+<!-- Enhanced Activity Graph with Neon Effects -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 
 ## 📈 Contribution Activity
 
@@ -167,6 +256,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+<<<<<<< HEAD
 <!-- Coding Time Stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=radical" alt="Profile Summary Cards" />
@@ -178,6 +268,23 @@
 </div>
 
 <!-- Snake Animation -->
+=======
+<!-- Inspirational Quote -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;✨+Let's+build+something+amazing+together!" alt="Quote Animation" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+  
+</div>
+
+<!-- Animated Footer with Particle Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff00&animation=blinking&fontAlignY=75&desc=Keep%20coding%2C%20keep%20growing!&descSize=12&descColor=ffffff&descAlignY=90"/>
+
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
@@ -188,6 +295,7 @@
   
   <br/>
   
+<<<<<<< HEAD
   **Made with ❤️ and lots of ☕**
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
@@ -209,3 +317,6 @@
   *Keep coding, keep growing! 🌱*
   
 </div>
+=======
+
+>>>>>>> a79d4b6b0eb73c6b62f89ec6687a1845e5e7ab6a
