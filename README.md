@@ -15,28 +15,18 @@
 ## 🌟 About Me
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="top" width="50%">
-        
-**🎯 Current Focus**
-- 🔭 Building scalable web applications
-- 🌱 Exploring Cloud-Native technologies  
-- 🎓 Studying Software Engineering
-- 💡 Contributing to Open Source projects
 
-**⚡ Quick Facts**
-- 📍 Based in Sri Lanka 🇱🇰
-- 💼 Available for exciting opportunities
-- 🎨 UI/UX enthusiast
-- ☕ Coffee-powered developer
+| 🎯 **Current Focus** | <img alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> |
+|:---|:---:|
+| • 🔭 Building scalable web applications<br/>• 🌱 Exploring Cloud-Native technologies<br/>• 🎓 Studying Software Engineering<br/>• 💡 Contributing to Open Source projects | |
 
-      </td>
-      <td valign="top" width="50%">
-        <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-      </td>
-    </tr>
-  </table>
+| ⚡ **Quick Facts** |
+|:---|
+| • 📍 Based in Sri Lanka 🇱🇰 |
+| • 💼 Available for exciting opportunities |
+| • 🎨 UI/UX enthusiast |
+| • ☕ Coffee-powered developer |
+
 </div>
 
 <!-- Enhanced Profile Views with Animated Badges -->
