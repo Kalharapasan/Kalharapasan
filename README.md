@@ -342,9 +342,11 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+---
+
+![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)
+
+---
   
 </div>
 
