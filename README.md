@@ -482,29 +482,27 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        
-### 🎯 **2025 GOALS**
-```yaml
-🚀 Master Advanced React Patterns
-☁️ AWS Solutions Architect Certification  
-🤖 Dive Deep into AI/ML with Python
-📱 Build 3 Production Mobile Apps
-🌟 Contribute to 10 Open Source Projects
-💼 Land Dream Developer Role
-```
+
+**🎯 2025 GOALS**
+
+- 🚀 Master Advanced React Patterns
+- ☁️ AWS Solutions Architect Certification  
+- 🤖 Dive Deep into AI/ML with Python
+- 📱 Build 3 Production Mobile Apps
+- 🌟 Contribute to 10 Open Source Projects
+- 💼 Land Dream Developer Role
 
       </td>
       <td width="50%" valign="top">
-        
-### 📈 **LEARNING STATS**
-```yaml
-📖 Books Read: 12+ technical books
-🎥 Courses Completed: 25+ online courses
-🏆 Certifications: 5+ industry certifications
-💡 Side Projects: 15+ completed projects
-🤝 Mentoring: Helping 3+ junior developers
-📝 Blog Posts: Writing about my journey
-```
+
+**📈 LEARNING STATS**
+
+- 📖 Books Read: 12+ technical books
+- 🎥 Courses Completed: 25+ online courses
+- 🏆 Certifications: 5+ industry certifications
+- 💡 Side Projects: 15+ completed projects
+- 🤝 Mentoring: Helping 3+ junior developers
+- 📝 Blog Posts: Writing about my journey
 
       </td>
     </tr>
@@ -512,7 +510,9 @@
 </div>
 
 <div align="center">
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=70&lines=📚+Currently+learning%3A+Advanced+System+Design;🔬+Exploring%3A+Microservices+Architecture;🎯+Next+up%3A+Kubernetes+%26+Docker+Mastery" alt="Current Learning" />
+  <br>
 </div>
 
 ## 📅 Recent Achievements & Milestones
@@ -554,16 +554,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=github_dark" alt="Stats" />
       </td>
       <td width="50%">
-        <div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-          <h3 style="color: #00ff00; margin-bottom: 15px;">⏰ Productive Hours</h3>
-          <div style="text-align: center;">
-            <p style="color: #ffffff; margin: 5px 0;">🌅 Morning: 20%</p>
-            <p style="color: #ffffff; margin: 5px 0;">☀️ Afternoon: 30%</p>
-            <p style="color: #ffffff; margin: 5px 0;">🌆 Evening: 35%</p>
-            <p style="color: #ffffff; margin: 5px 0;">🌙 Night: 15%</p>
-            <p style="color: #00ff00; margin-top: 10px;">Peak: 6PM - 10PM</p>
-          </div>
-        </div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
       </td>
     </tr>
   </table>
