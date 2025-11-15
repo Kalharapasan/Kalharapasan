@@ -122,49 +122,9 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left side - Animated Top Languages -->
+      <!-- Left side - Most Used Languages -->
       <td>
-        ## 💻 Most Used Languages
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img width="420" src="https://i.imgur.com/placeholder.png" alt="Most Used Languages Card" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <table style="border: none;">
-        <tr>
-          <td style="border: none;">🔵 Python 21.5%</td>
-          <td style="border: none;">🟠 Jupyter Notebook 0.9%</td>
-        </tr>
-        <tr>
-          <td style="border: none;">🟡 JavaScript 18.3%</td>
-          <td style="border: none;">⚪ C 12.8%</td>
-        </tr>
-        <tr>
-          <td style="border: none;">🔴 C++ 11.2%</td>
-          <td style="border: none;">🟢 C# 9.4%</td>
-        </tr>
-        <tr>
-          <td style="border: none;">🟣 PHP 8.1%</td>
-          <td style="border: none;">🟤 Java 6.7%</td>
-        </tr>
-        <tr>
-          <td style="border: none;">🔷 Dart 5.2%</td>
-          <td style="border: none;">🟪 VB.NET 3.8%</td>
-        </tr>
-        <tr>
-          <td style="border: none;">🟧 HTML 2.1%</td>
-          <td style="border: none;">🔹 Flutter</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
       <td>
@@ -240,6 +200,7 @@
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -390,7 +351,7 @@
 <!-- Snake Animation -->
 ---
 
-![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg)
 
 ---
   
