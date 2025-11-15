@@ -161,19 +161,47 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Portfolio Project" />
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🌟 Portfolio Website</h3>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <p>🚀 Modern responsive portfolio showcasing my projects and skills with dynamic animations and interactive UI components.</p>
+          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
+        </div>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=e-commerce-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="E-commerce App" />
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🛍️ E-Commerce Platform</h3>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+          <p>🛒 Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.</p>
+          <img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge" alt="Status" />
+        </div>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=task-manager&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Task Manager" />
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>📱 Task Management App</h3>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+          <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+          <p>📋 Cross-platform mobile app for task management with real-time sync and team collaboration features.</p>
+          <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Status" />
+        </div>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=mobile-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Mobile App" />
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🤖 AI Chat Bot</h3>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+          <p>🧠 Intelligent chatbot powered by machine learning with natural language processing capabilities.</p>
+          <img src="https://img.shields.io/badge/Status-Research-purple?style=for-the-badge" alt="Status" />
+        </div>
       </td>
     </tr>
   </table>
@@ -181,6 +209,19 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🔔+Watch+for+updates+and+new+features;🤝+Contributions+and+feedback+are+always+welcome!" alt="Project CTA" />
+</div>
+
+<!-- Project Repository Links -->
+<div align="center">
+  <a href="https://github.com/kalharapasan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+  <a href="https://github.com/kalharapasan" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+  </a>
+  <a href="mailto:kalharap84@gmail.com">
+    <img src="https://img.shields.io/badge/Collaborate-45B7D1?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+  </a>
 </div>
 
 <!-- Tech Stack with Enhanced Visuals -->
@@ -367,6 +408,74 @@
   
 </div>
 
+## 🏆 Skills Proficiency
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>💻 **Frontend Development**</h3>
+        <img src="https://img.shields.io/badge/React-Advanced-brightgreen?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-Expert-success?style=for-the-badge&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/CSS-Expert-informational?style=for-the-badge&logo=css3" alt="CSS" />
+        <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" alt="HTML" />
+      </td>
+      <td width="50%" valign="top">
+        <h3>⚙️ **Backend Development**</h3>
+        <img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/PHP-Intermediate-purple?style=for-the-badge&logo=php" alt="PHP" />
+        <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus" alt="C++" />
+        <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java" alt="Java" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📱 **Mobile Development**</h3>
+        <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React_Native-Learning-lightblue?style=for-the-badge&logo=react" alt="React Native" />
+        <img src="https://img.shields.io/badge/Android-Beginner-green?style=for-the-badge&logo=android" alt="Android" />
+      </td>
+      <td width="50%" valign="top">
+        <h3>☁️ **Cloud & DevOps**</h3>
+        <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-Advanced-red?style=for-the-badge&logo=git" alt="Git" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 Current Projects Status
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" align="center">
+        <h4>🚧 In Development</h4>
+        <img src="https://img.shields.io/badge/Projects-3-orange?style=for-the-badge&logo=tools" alt="In Development" />
+        <p>Portfolio, Task App, Learning Platform</p>
+      </td>
+      <td width="25%" align="center">
+        <h4>✅ Completed</h4>
+        <img src="https://img.shields.io/badge/Projects-8-green?style=for-the-badge&logo=check" alt="Completed" />
+        <p>Various web applications and tools</p>
+      </td>
+      <td width="25%" align="center">
+        <h4>💡 Planning</h4>
+        <img src="https://img.shields.io/badge/Projects-4-blue?style=for-the-badge&logo=lightbulb" alt="Planning" />
+        <p>AI Tools, Mobile Apps, APIs</p>
+      </td>
+      <td width="25%" align="center">
+        <h4>🔄 Maintaining</h4>
+        <img src="https://img.shields.io/badge/Projects-5-purple?style=for-the-badge&logo=refresh" alt="Maintaining" />
+        <p>Active projects and libraries</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📚 Learning Journey & Goals
 
 <div align="center">
@@ -406,6 +515,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=70&lines=📚+Currently+learning%3A+Advanced+System+Design;🔬+Exploring%3A+Microservices+Architecture;🎯+Next+up%3A+Kubernetes+%26+Docker+Mastery" alt="Current Learning" />
 </div>
 
+## 📅 Recent Achievements & Milestones
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/✨-Launched_Portfolio-success?style=for-the-badge&logo=rocket" alt="Portfolio Launch" />
+        <p>🚀 Successfully deployed personal portfolio website</p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/📚-Completed_Course-blue?style=for-the-badge&logo=graduation-cap" alt="Course Complete" />
+        <p>🎓 Finished Advanced React Development course</p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/🤝-Joined_Community-orange?style=for-the-badge&logo=people" alt="Community" />
+        <p>🌐 Active member of 3+ developer communities</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 Detailed Analytics
 
 <!-- Comprehensive GitHub Metrics -->
@@ -424,7 +554,16 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=github_dark" alt="Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+        <div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+          <h3 style="color: #00ff00; margin-bottom: 15px;">⏰ Productive Hours</h3>
+          <div style="text-align: center;">
+            <p style="color: #ffffff; margin: 5px 0;">🌅 Morning: 20%</p>
+            <p style="color: #ffffff; margin: 5px 0;">☀️ Afternoon: 30%</p>
+            <p style="color: #ffffff; margin: 5px 0;">🌆 Evening: 35%</p>
+            <p style="color: #ffffff; margin: 5px 0;">🌙 Night: 15%</p>
+            <p style="color: #00ff00; margin-top: 10px;">Peak: 6PM - 10PM</p>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
@@ -437,6 +576,31 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Most+productive+hours%3A+Evening+%26+Night;📈+Peak+coding+days%3A+Tuesday+%26+Wednesday;🔥+Longest+streak%3A+30%2B+consecutive+days" alt="Activity Insights" />
+</div>
+
+## 📈 Weekly Development Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/This_Week-💻_32hrs-blue?style=for-the-badge" alt="Coding Hours" />
+        <p>Coding Hours</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Commits-🚀_47-green?style=for-the-badge" alt="Commits" />
+        <p>Total Commits</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Projects-🎨_3-orange?style=for-the-badge" alt="Projects" />
+        <p>Active Projects</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Learning-📚_2_topics-purple?style=for-the-badge" alt="Learning" />
+        <p>New Technologies</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Enhanced Activity Graph with Neon Effects -->
@@ -510,9 +674,25 @@
     <img src="https://img.shields.io/badge/🤝-Mentorship_Available-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
   </div>
   
+  <!-- Availability Status -->
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/🌍-Timezone-GMT%2B5:30_(Sri_Lanka)-informational?style=for-the-badge" alt="Timezone" />
+    <img src="https://img.shields.io/badge/🟢-Status-Available_for_Projects-success?style=for-the-badge" alt="Available" />
+    <img src="https://img.shields.io/badge/💼-Remote_Work-Ready-blue?style=for-the-badge" alt="Remote Ready" />
+  </div>
+  
   <!-- Visitor Counter with Style -->
   <div style="margin: 15px 0;">
     <img src="https://visitcount.itsvg.in/api?id=kalharapasan&icon=2&color=0" alt="Visit Counter" />
+  </div>
+  
+  <!-- Contact Preferences -->
+  <div style="margin: 20px 0;">
+    <h4 style="color: #00ff00;">Preferred Contact Methods:</h4>
+    <p style="color: #ffffff; margin: 5px 0;">📧 Email: Best for project inquiries</p>
+    <p style="color: #ffffff; margin: 5px 0;">💼 LinkedIn: Professional networking</p>
+    <p style="color: #ffffff; margin: 5px 0;">💬 GitHub: Technical discussions</p>
+    <p style="color: #00ff00; margin: 10px 0;">Response Time: Usually within 24 hours</p>
   </div>
   
 </div>
