@@ -125,7 +125,7 @@
     <tr>
       <!-- Left side - Most Used Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&border_radius=15&langs_count=10" alt="Top Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
       <td>
