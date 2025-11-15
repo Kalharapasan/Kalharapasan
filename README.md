@@ -3,6 +3,7 @@
   <!-- Futuristic Animated Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=P.R.P.S.%20Kalhara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55"/>
 
+
   <!-- Dynamic Typing Animation with Gradient -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+digital+universe;💫+Crafting+code+that+makes+a+difference;🚀+Building+tomorrow's+solutions+today;⚡+Always+learning%2C+always+innovating" alt="Animated Introduction" />
   
@@ -124,7 +125,7 @@
     <tr>
       <!-- Left side - Most Used Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&border_radius=15&langs_count=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
       <td>
@@ -143,6 +144,12 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
+
+<!-- Most Used Languages Card -->
+<div align="center">
+<br>
+
+
 
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
