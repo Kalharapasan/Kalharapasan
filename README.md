@@ -57,6 +57,17 @@
 </table>
 </div>
 
+<!-- Professional Summary -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Full-Stack+Developer+from+Sri+Lanka;Specializing+in+React%2C+Node.js%2C+and+Modern+Web+Technologies;Building+scalable+applications+and+contributing+to+open+source;Always+learning+and+exploring+new+technologies" alt="Professional Summary" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- Interactive Connection Section -->
 <div align="center">
 <br>
@@ -565,6 +576,26 @@
   <img src="https://ghchart.rshah.org/00ff00/kalharapasan" alt="Kalharapasan's GitHub Activity" />
 </div>
 
+<!-- Coding Stats Overview -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-20+-blue?style=for-the-badge&logo=github" alt="Repositories" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages_Used-10+-green?style=for-the-badge&logo=code" alt="Languages" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Years_Active-2+-purple?style=for-the-badge&logo=calendar" alt="Years Active" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=opensource" alt="Open Source" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Most+productive+hours%3A+Evening+%26+Night;📈+Peak+coding+days%3A+Tuesday+%26+Wednesday;🔥+Longest+streak%3A+30%2B+consecutive+days" alt="Activity Insights" />
 </div>
@@ -679,11 +710,12 @@
   
   <!-- Contact Preferences -->
   <div style="margin: 20px 0;">
-    <h4 style="color: #00ff00;">Preferred Contact Methods:</h4>
-    <p style="color: #ffffff; margin: 5px 0;">📧 Email: Best for project inquiries</p>
-    <p style="color: #ffffff; margin: 5px 0;">💼 LinkedIn: Professional networking</p>
-    <p style="color: #ffffff; margin: 5px 0;">💬 GitHub: Technical discussions</p>
-    <p style="color: #00ff00; margin: 10px 0;">Response Time: Usually within 24 hours</p>
+    <h4 style="color: #00ff00;">🤝 Let's Build Something Amazing Together!</h4>
+    <p style="color: #ffffff; margin: 5px 0;">📧 Email: kalharap84@gmail.com (Best for project inquiries)</p>
+    <p style="color: #ffffff; margin: 5px 0;">💼 LinkedIn: Professional networking and collaborations</p>
+    <p style="color: #ffffff; margin: 5px 0;">💬 GitHub: Technical discussions and code reviews</p>
+    <p style="color: #00ff00; margin: 10px 0;">⚡ Quick Response: Usually within 24 hours</p>
+    <p style="color: #667EEA; margin: 10px 0; font-style: italic;">"Great things are never done by one person. They're done by a team of people." - Steve Jobs</p>
   </div>
   
 </div>
