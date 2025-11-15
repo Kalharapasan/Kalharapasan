@@ -122,9 +122,9 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left side - Animated Top Languages -->
+      <!-- Left side - Most Used Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&border_radius=15&langs_count=10" alt="Most Used Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
       <td>
@@ -194,6 +194,7 @@
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -344,7 +345,7 @@
 <!-- Snake Animation -->
 ---
 
-![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg)
 
 ---
   
