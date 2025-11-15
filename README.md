@@ -144,6 +144,52 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
 
+<!-- Most Used Languages Card -->
+<div align="center">
+<br>
+
+## 💻 Most Used Languages
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img width="420" src="https://i.imgur.com/placeholder.png" alt="Most Used Languages Card" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <table style="border: none;">
+        <tr>
+          <td style="border: none;">🔵 Python 21.5%</td>
+          <td style="border: none;">🟠 Jupyter Notebook 0.9%</td>
+        </tr>
+        <tr>
+          <td style="border: none;">🟡 JavaScript 18.3%</td>
+          <td style="border: none;">⚪ C 12.8%</td>
+        </tr>
+        <tr>
+          <td style="border: none;">🔴 C++ 11.2%</td>
+          <td style="border: none;">🟢 C# 9.4%</td>
+        </tr>
+        <tr>
+          <td style="border: none;">🟣 PHP 8.1%</td>
+          <td style="border: none;">🟤 Java 6.7%</td>
+        </tr>
+        <tr>
+          <td style="border: none;">🔷 Dart 5.2%</td>
+          <td style="border: none;">🟪 VB.NET 3.8%</td>
+        </tr>
+        <tr>
+          <td style="border: none;">🟧 HTML 2.1%</td>
+          <td style="border: none;">🔹 Flutter</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
