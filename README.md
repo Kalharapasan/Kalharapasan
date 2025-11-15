@@ -102,6 +102,14 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
 </div>
 
+<!-- Achievement Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Years%20of%20Experience-2%2B-blue?style=for-the-badge&logo=calendar" alt="experience" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-15%2B-green?style=for-the-badge&logo=checkmarx" alt="projects" />
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-yellow?style=for-the-badge&logo=codeclimate" alt="quality" />
+  <img src="https://img.shields.io/badge/Response%20Time-24hrs-red?style=for-the-badge&logo=clock" alt="response" />
+</div>
+
 <!-- Animated Text Banners -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+future+with+code;💡+Turning+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Animated Banner" />
@@ -145,8 +153,38 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
 
+<!-- Featured Projects Showcase -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
+
+# 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Portfolio Project" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=e-commerce-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="E-commerce App" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=task-manager&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Task Manager" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalharapasan&repo=mobile-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=10" alt="Mobile App" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🔔+Watch+for+updates+and+new+features;🤝+Contributions+and+feedback+are+always+welcome!" alt="Project CTA" />
+</div>
+
 <!-- Tech Stack with Enhanced Visuals -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
 # 💻 My favorite tools and technologies
 
@@ -329,6 +367,78 @@
   
 </div>
 
+## 📚 Learning Journey & Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        
+### 🎯 **2025 GOALS**
+```yaml
+🚀 Master Advanced React Patterns
+☁️ AWS Solutions Architect Certification  
+🤖 Dive Deep into AI/ML with Python
+📱 Build 3 Production Mobile Apps
+🌟 Contribute to 10 Open Source Projects
+💼 Land Dream Developer Role
+```
+
+      </td>
+      <td width="50%" valign="top">
+        
+### 📈 **LEARNING STATS**
+```yaml
+📖 Books Read: 12+ technical books
+🎥 Courses Completed: 25+ online courses
+🏆 Certifications: 5+ industry certifications
+💡 Side Projects: 15+ completed projects
+🤝 Mentoring: Helping 3+ junior developers
+📝 Blog Posts: Writing about my journey
+```
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=70&lines=📚+Currently+learning%3A+Advanced+System+Design;🔬+Exploring%3A+Microservices+Architecture;🎯+Next+up%3A+Kubernetes+%26+Docker+Mastery" alt="Current Learning" />
+</div>
+
+## 📊 Detailed Analytics
+
+<!-- Comprehensive GitHub Metrics -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalharapasan&theme=github_dark" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=github_dark" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=github_dark" alt="Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Coding Activity Heatmap -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff00/kalharapasan" alt="Kalharapasan's GitHub Activity" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Most+productive+hours%3A+Evening+%26+Night;📈+Peak+coding+days%3A+Tuesday+%26+Wednesday;🔥+Longest+streak%3A+30%2B+consecutive+days" alt="Activity Insights" />
+</div>
+
 <!-- Enhanced Activity Graph with Neon Effects -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
@@ -338,9 +448,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
-<!-- Inspirational Quote -->
+<!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;✨+Let's+build+something+amazing+together!" alt="Quote Animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Random Dev Quote" />
+</div>
+
+<!-- Fun Developer Facts -->
+<div align="center">
+  
+### 🎲 Random Developer Facts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&width=400&height=100&lines=☕+Coffee+consumed%3A+∞+cups;🐛+Bugs+created%3A+Too+many+to+count;💡+Bugs+fixed%3A+Slightly+less;🌙+Late+night+coding%3A+My+specialty" alt="Fun Facts 1" />
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=00d9ff&center=true&vCenter=true&multiline=true&width=400&height=100&lines=🎵+Coding+playlist%3A+Lo-fi+beats;🍕+Favorite+debugging+food%3A+Pizza;💭+Rubber+duck+sessions%3A+Daily;🚀+Deploy+on+Friday%3F+Never!" alt="Fun Facts 2" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 <!-- Snake Animation -->
@@ -372,5 +502,17 @@
   
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
+  
+  <!-- Call to Action -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/💬-Let's_Collaborate-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+    <img src="https://img.shields.io/badge/📧-Open_to_Opportunities-green?style=for-the-badge&logo=mail&logoColor=white" alt="Opportunities" />
+    <img src="https://img.shields.io/badge/🤝-Mentorship_Available-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
+  </div>
+  
+  <!-- Visitor Counter with Style -->
+  <div style="margin: 15px 0;">
+    <img src="https://visitcount.itsvg.in/api?id=kalharapasan&icon=2&color=0" alt="Visit Counter" />
+  </div>
   
 </div>
