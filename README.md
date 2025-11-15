@@ -500,22 +500,21 @@
 🌟 Contribute to 10 Open Source Projects
 💼 Land Dream Developer Role
 ```
+</td>
+<td width="50%" valign="top" style="border: none;">
 
-      </td>
-      <td width="50%" valign="top" style="border: none;">
+          ### 📈 **LEARNING STATS**
 
-### 📈 **LEARNING STATS**
+          ```yaml
+          📖 Books Read: 12+ technical books
+          🎥 Courses Completed: 25+ online courses
+          🏆 Certifications: 5+ industry certifications
+          💡 Side Projects: 15+ completed projects
+          🤝 Mentoring: Helping 3+ junior developers
+          📝 Blog Posts: Writing about my journey
+          ```
 
-```yaml
-📖 Books Read: 12+ technical books
-🎥 Courses Completed: 25+ online courses
-🏆 Certifications: 5+ industry certifications
-💡 Side Projects: 15+ completed projects
-🤝 Mentoring: Helping 3+ junior developers
-📝 Blog Posts: Writing about my journey
-```
-
-      </td>
+</td>
     </tr>
   </table>
 </div>
