@@ -124,31 +124,7 @@
     <tr>
       <!-- Left side - Animated Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalharapasan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_radius=15" alt="Top Languages" />
-      </td>
-      <!-- Right side - Enhanced GitHub Stats -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Enhanced GitHub Streak Stats with Working URLs -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
-</div>
-
-<!-- Working Real-time Coding Activity -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
-</div>
-
-<!-- Most Used Languages Card -->
-<div align="center">
-<br>
-
-## 💻 Most Used Languages
+        ## 💻 Most Used Languages
 
 <table align="center" style="border: none;">
   <tr>
@@ -189,6 +165,30 @@
 </table>
 
 </div>
+      </td>
+      <!-- Right side - Enhanced GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Enhanced GitHub Streak Stats with Working URLs -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Working Real-time Coding Activity -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<!-- Most Used Languages Card -->
+<div align="center">
+<br>
+
+
 
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
