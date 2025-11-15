@@ -421,99 +421,99 @@
 
 ## 🏆 Skills Proficiency
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>💻 **Frontend Development**</h3>
-        <img src="https://img.shields.io/badge/React-Advanced-brightgreen?style=for-the-badge&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-Expert-success?style=for-the-badge&logo=javascript" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/CSS-Expert-informational?style=for-the-badge&logo=css3" alt="CSS" />
-        <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" alt="HTML" />
-      </td>
-      <td width="50%" valign="top">
-        <h3>⚙️ **Backend Development**</h3>
-        <img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python" />
-        <img src="https://img.shields.io/badge/PHP-Intermediate-purple?style=for-the-badge&logo=php" alt="PHP" />
-        <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus" alt="C++" />
-        <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java" alt="Java" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>📱 **Mobile Development**</h3>
-        <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
-        <img src="https://img.shields.io/badge/React_Native-Learning-lightblue?style=for-the-badge&logo=react" alt="React Native" />
-        <img src="https://img.shields.io/badge/Android-Beginner-green?style=for-the-badge&logo=android" alt="Android" />
-      </td>
-      <td width="50%" valign="top">
-        <h3>☁️ **Cloud & DevOps**</h3>
-        <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazon-aws" alt="AWS" />
-        <img src="https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker" alt="Docker" />
-        <img src="https://img.shields.io/badge/Git-Advanced-red?style=for-the-badge&logo=git" alt="Git" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <h3>💻 **Frontend Development**</h3>
+      <img src="https://img.shields.io/badge/React-Advanced-brightgreen?style=for-the-badge&logo=react" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-Expert-success?style=for-the-badge&logo=javascript" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript" alt="TypeScript" /><br/>
+      <img src="https://img.shields.io/badge/CSS-Expert-informational?style=for-the-badge&logo=css3" alt="CSS" /><br/>
+      <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" alt="HTML" />
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <h3>⚙️ **Backend Development**</h3>
+      <img src="https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js" alt="Node.js" /><br/>
+      <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/PHP-Intermediate-purple?style=for-the-badge&logo=php" alt="PHP" /><br/>
+      <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java" alt="Java" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <h3>📱 **Mobile Development**</h3>
+      <img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter" alt="Flutter" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-Learning-lightblue?style=for-the-badge&logo=react" alt="React Native" /><br/>
+      <img src="https://img.shields.io/badge/Android-Beginner-green?style=for-the-badge&logo=android" alt="Android" />
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <h3>☁️ **Cloud & DevOps**</h3>
+      <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazon-aws" alt="AWS" /><br/>
+      <img src="https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/Git-Advanced-red?style=for-the-badge&logo=git" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Current Projects Status
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <h4>🚧 In Development</h4>
-        <img src="https://img.shields.io/badge/Projects-3-orange?style=for-the-badge&logo=tools" alt="In Development" />
-        <p>Portfolio, Task App, Learning Platform</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>✅ Completed</h4>
-        <img src="https://img.shields.io/badge/Projects-8-green?style=for-the-badge&logo=check" alt="Completed" />
-        <p>Various web applications and tools</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>💡 Planning</h4>
-        <img src="https://img.shields.io/badge/Projects-4-blue?style=for-the-badge&logo=lightbulb" alt="Planning" />
-        <p>AI Tools, Mobile Apps, APIs</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>🔄 Maintaining</h4>
-        <img src="https://img.shields.io/badge/Projects-5-purple?style=for-the-badge&logo=refresh" alt="Maintaining" />
-        <p>Active projects and libraries</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td width="25%" align="center" style="border: none;">
+      <h4>🚧 In Development</h4>
+      <img src="https://img.shields.io/badge/Projects-3-orange?style=for-the-badge&logo=tools" alt="In Development" />
+      <p>Portfolio, Task App, Learning Platform</p>
+    </td>
+    <td width="25%" align="center" style="border: none;">
+      <h4>✅ Completed</h4>
+      <img src="https://img.shields.io/badge/Projects-8-green?style=for-the-badge&logo=check" alt="Completed" />
+      <p>Various web applications and tools</p>
+    </td>
+    <td width="25%" align="center" style="border: none;">
+      <h4>💡 Planning</h4>
+      <img src="https://img.shields.io/badge/Projects-4-blue?style=for-the-badge&logo=lightbulb" alt="Planning" />
+      <p>AI Tools, Mobile Apps, APIs</p>
+    </td>
+    <td width="25%" align="center" style="border: none;">
+      <h4>🔄 Maintaining</h4>
+      <img src="https://img.shields.io/badge/Projects-5-purple?style=for-the-badge&logo=refresh" alt="Maintaining" />
+      <p>Active projects and libraries</p>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Learning Journey & Goals
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
 
-**🎯 2025 GOALS**
+### 🎯 **2025 GOALS**
 
-- 🚀 Master Advanced React Patterns
-- ☁️ AWS Solutions Architect Certification  
-- 🤖 Dive Deep into AI/ML with Python
-- 📱 Build 3 Production Mobile Apps
-- 🌟 Contribute to 10 Open Source Projects
-- 💼 Land Dream Developer Role
+```yaml
+🚀 Master Advanced React Patterns
+☁️ AWS Solutions Architect Certification  
+🤖 Dive Deep into AI/ML with Python
+📱 Build 3 Production Mobile Apps
+🌟 Contribute to 10 Open Source Projects
+💼 Land Dream Developer Role
+```
 
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
 
-**📈 LEARNING STATS**
+### 📈 **LEARNING STATS**
 
-- 📖 Books Read: 12+ technical books
-- 🎥 Courses Completed: 25+ online courses
-- 🏆 Certifications: 5+ industry certifications
-- 💡 Side Projects: 15+ completed projects
-- 🤝 Mentoring: Helping 3+ junior developers
-- 📝 Blog Posts: Writing about my journey
+```yaml
+📖 Books Read: 12+ technical books
+🎥 Courses Completed: 25+ online courses
+🏆 Certifications: 5+ industry certifications
+💡 Side Projects: 15+ completed projects
+🤝 Mentoring: Helping 3+ junior developers
+📝 Blog Posts: Writing about my journey
+```
 
       </td>
     </tr>
