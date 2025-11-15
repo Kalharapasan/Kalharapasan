@@ -144,6 +144,70 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
 
+<!-- NEW: Enhanced Most Used Languages Section -->
+<div align="center">
+
+## 💻 Most Used Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Python-21.5%25-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/JavaScript-18.3%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/C-12.8%25-00ADD8?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/C++-11.2%25-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/C%23-9.4%25-178600?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/PHP-8.1%25-945db7?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Java-6.7%25-b07219?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Dart-5.2%25-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/VB.NET-3.8%25-945db7?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/HTML-2.1%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Jupyter-0.9%25-da5b0b?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Language Distribution Bar -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-━━━━━━━━━━━━━━━━━━━━━-3572A5?style=flat-square&logoColor=white" width="500"/>
+  <img src="https://img.shields.io/badge/JavaScript-━━━━━━━━━━━━━━━━━━-f1e05a?style=flat-square&logoColor=white" width="460"/>
+  <img src="https://img.shields.io/badge/C-━━━━━━━━━━━━-00ADD8?style=flat-square&logoColor=white" width="320"/>
+  <img src="https://img.shields.io/badge/C++-━━━━━━━━━━━-f34b7d?style=flat-square&logoColor=white" width="280"/>
+  <img src="https://img.shields.io/badge/C%23-━━━━━━━━━-178600?style=flat-square&logoColor=white" width="235"/>
+  <img src="https://img.shields.io/badge/PHP-━━━━━━━━-945db7?style=flat-square&logoColor=white" width="200"/>
+  <img src="https://img.shields.io/badge/Java-━━━━━━-b07219?style=flat-square&logoColor=white" width="170"/>
+  <img src="https://img.shields.io/badge/Dart-━━━━━-00B4AB?style=flat-square&logoColor=white" width="130"/>
+</div>
+
+</div>
+
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
