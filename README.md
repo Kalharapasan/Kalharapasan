@@ -671,7 +671,7 @@
 
 <!-- Backup contribution visualization -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
 </div>
 
 </div>
