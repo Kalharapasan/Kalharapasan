@@ -704,7 +704,7 @@
   
   <!-- Visitor Counter with Style -->
   <div style="margin: 15px 0;">
-    <img src="https://visitcount.itsvg.in/api?id=kalharapasan&icon=2&color=0" alt="Visit Counter" />
+    <img src="https://profile-counter.glitch.me/kalharapasan/count.svg" alt="Visit Counter" />
   </div>
   
   <!-- Contact Preferences -->
