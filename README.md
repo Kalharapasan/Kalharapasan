@@ -156,7 +156,7 @@
 
 <!-- Enhanced GitHub Streak Stats with Working URLs -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Working Real-time Coding Activity -->
@@ -572,7 +572,7 @@
 
 <!-- Coding Activity Heatmap -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/00ff00/kalharapasan" alt="Kalharapasan's GitHub Activity" />
+  <img src="https://ghchart.rshah.org/667eea/kalharapasan" alt="Kalharapasan's GitHub Activity" width="100%" />
 </div>
 
 <!-- Coding Stats Overview -->
@@ -658,20 +658,18 @@
 
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Setup Instructions -->
 <div align="center">
   
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Note: To enable snake animation, you need to:
+     1. Create .github/workflows/snake.yml in your repository
+     2. Add the GitHub Action workflow for snake animation
+     3. For now, showing contribution streak instead -->
 
-<!-- Backup contribution visualization -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
 </div>
 
 </div>
