@@ -3,19 +3,22 @@
   <!-- Futuristic Animated Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=P.R.P.S.%20Kalhara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55"/>
 
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+digital+universe;💫+Crafting+code+that+makes+a+difference;🚀+Building+tomorrow's+solutions+today;⚡+Always+learning%2C+always+innovating" alt="Animated Introduction" />
+
+  <!-- Dynamic Typing Animation with Gradient -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+digital+universe;💫+Crafting+code+that+makes+a+difference;🚀+Building+tomorrow's+solutions+today;⚡+Always+learning%2C+always+innovating" alt="Animated Introduction" />
   
   <!-- Glowing Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- Enhanced About Section -->
+<!-- Enhanced About Section with Modern Design -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🌟+ABOUT+ME+🌟;✨+Digital+Craftsman+✨;🚀+Code+Architect+🚀" alt="About Me Header" />
+<!-- Glowing Section Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🌟+ABOUT+ME+🌟;✨+Digital+Craftsman+✨;🚀+Code+Architect+🚀" alt="About Me Header" />
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 
 </div>
