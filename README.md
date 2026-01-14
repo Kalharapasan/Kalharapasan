@@ -572,7 +572,7 @@
 
 <!-- Coding Activity Heatmap -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/00ff00/kalharapasan" alt="Kalharapasan's GitHub Activity" />
+  <img src="https://ghchart.rshah.org/00ff00/Kalharapasan" alt="Kalharapasan's GitHub Activity" />
 </div>
 
 <!-- Coding Stats Overview -->
@@ -664,14 +664,14 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalharapasan/kalharapasan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Backup contribution visualization -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
 </div>
 
 </div>
@@ -704,7 +704,7 @@
   
   <!-- Visitor Counter with Style -->
   <div style="margin: 15px 0;">
-    <img src="https://profile-counter.glitch.me/kalharapasan/count.svg" alt="Visit Counter" />
+    <img src="https://profile-counter.glitch.me/Kalharapasan/count.svg" alt="Visit Counter" />
   </div>
   
   <!-- Contact Preferences -->
