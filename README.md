@@ -107,9 +107,9 @@
 
 <!-- Enhanced Profile Views with Animated Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
 </div>
 
@@ -553,18 +553,18 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalharapasan&theme=github_dark" alt="Repos per Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Repos per Language" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=github_dark" alt="Most Commit Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=github_dark" alt="Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
       </td>
     </tr>
   </table>
@@ -630,7 +630,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
 <!-- Random Dev Quote -->
