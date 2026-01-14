@@ -224,10 +224,10 @@
 
 <!-- Project Repository Links -->
 <div align="center">
-  <a href="https://github.com/kalharapasan?tab=repositories" target="_blank">
+  <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
-  <a href="https://github.com/kalharapasan" target="_blank">
+  <a href="https://github.com/Kalharapasan" target="_blank">
     <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
   </a>
   <a href="mailto:kalharap84@gmail.com">
