@@ -132,7 +132,7 @@
 <!-- Enhanced Trophies with Animation -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="kalharapasan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Kalharapasan" />
   </a>
 </div>
 
@@ -156,12 +156,12 @@
 
 <!-- Enhanced GitHub Streak Stats with Working URLs -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Working Real-time Coding Activity -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalharapasan&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalharapasan&theme=github_dark" alt="Profile Summary" />
 </div>
 
 <!-- Featured Projects Showcase -->
