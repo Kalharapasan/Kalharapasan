@@ -647,7 +647,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&width=400&height=100&lines=☕+Coffee+consumed%3A+∞+cups;🐛+Bugs+created%3A+Too+many+to+count;💡+Bugs+fixed%3A+Slightly+less;🌙+Late+night+coding%3A+My+specialty" alt="Fun Facts 1" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&width=400&height=100&lines=☕+Coffee+consumed%3A+∞+cups;🐛+Bugs+created%3A+Too+many+to+count;💡+Bugs+fixed%3A+Slightly+less;🌙+Late+night+coding%3A+My+specialty" alt="Fun Facts 1" />duration=3000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&width=400&height=100&lines=☕+Coffee+consumed%3A+∞+cups;🐛+Bugs+created%3A+Too+many+to+count;💡+Bugs+fixed%3A+Slightly+less;🌙+Late+night+coding%3A+My+specialty" alt="Fun Facts 1" />
       </td>
       <td align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=00d9ff&center=true&vCenter=true&multiline=true&width=400&height=100&lines=🎵+Coding+playlist%3A+Lo-fi+beats;🍕+Favorite+debugging+food%3A+Pizza;💭+Rubber+duck+sessions%3A+Daily;🚀+Deploy+on+Friday%3F+Never!" alt="Fun Facts 2" />
