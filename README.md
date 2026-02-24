@@ -542,59 +542,6 @@
 </div>
 
 
-
-<!-- Coding Stats Overview -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total_Repositories-20+-blue?style=for-the-badge&logo=github" alt="Repositories" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Languages_Used-10+-green?style=for-the-badge&logo=code" alt="Languages" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Years_Active-2+-purple?style=for-the-badge&logo=calendar" alt="Years Active" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=opensource" alt="Open Source" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Most+productive+hours%3A+Evening+%26+Night;📈+Peak+coding+days%3A+Tuesday+%26+Wednesday;🔥+Longest+streak%3A+30%2B+consecutive+days" alt="Activity Insights" />
-</div>
-
-## 📈 Weekly Development Metrics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/This_Week-💻_32hrs-blue?style=for-the-badge" alt="Coding Hours" />
-        <p>Coding Hours</p>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/Commits-🚀_47-green?style=for-the-badge" alt="Commits" />
-        <p>Total Commits</p>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/Projects-🎨_3-orange?style=for-the-badge" alt="Projects" />
-        <p>Active Projects</p>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/Learning-📚_2_topics-purple?style=for-the-badge" alt="Learning" />
-        <p>New Technologies</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Enhanced Activity Graph with Neon Effects -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
