@@ -160,10 +160,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🔔+Watch+for+updates+and+new+features;🤝+Contributions+and+feedback+are+always+welcome!" alt="Project CTA" />
-</div>
-
 <!-- Project Repository Links -->
 <div align="center">
   <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
