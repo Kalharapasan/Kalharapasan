@@ -105,16 +105,43 @@
   </table>
 </div>
 
-<!-- Enhanced Profile Views with Animated Badges -->
+<!-- Latest Updates Section -->
 <div align="center">
+  <h2>⚡ Latest Updates & News</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <table align="center" style="width: 100%;">
+    <tr>
+      <td width="50%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/📢-Latest_News-blue?style=for-the-badge" alt="Latest" />
+        <p>
+          <strong>🚀 Currently Working On</strong><br/>
+          Building innovative full-stack applications and exploring AI/ML integrations
+        </p>
+      </td>
+      <td width="50%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/📚-Learning_Now-orange?style=for-the-badge" alt="Learning" />
+        <p>
+          <strong>🎓 Current Focus</strong><br/>
+          Advanced System Design, Microservices Architecture, and Cloud Technologies
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Enhanced Stats Section -->
+<div align="center">
+  <h2>📈 Quick Performance Metrics</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
   <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/Kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
-</div>
-
-<!-- Achievement Badges -->
-<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
+  
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/Years%20of%20Experience-2%2B-blue?style=for-the-badge&logo=calendar" alt="experience" />
   <img src="https://img.shields.io/badge/Projects%20Completed-15%2B-green?style=for-the-badge&logo=checkmarx" alt="projects" />
   <img src="https://img.shields.io/badge/Code%20Quality-A%2B-yellow?style=for-the-badge&logo=codeclimate" alt="quality" />
@@ -482,9 +509,9 @@
   </tr>
 </table>
 
-## 📚 Learning Journey & Goals
+## 📚 Learning Journey & Growth Roadmap
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <table style="border: none;">
     <tr>
       <td width="50%" valign="top" style="border: none;">
