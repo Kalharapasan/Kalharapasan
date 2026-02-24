@@ -131,9 +131,16 @@
 
 <!-- Enhanced Trophies with Animation -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Kalharapasan" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats Card" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Analytics
