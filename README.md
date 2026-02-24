@@ -512,11 +512,15 @@
 ## 📚 Learning Journey & Growth Roadmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
   <table style="border: none;">
     <tr>
-      <td width="50%" valign="top" style="border: none;">
+      <td width="50%" valign="top" style="border: none; padding: 20px;">
 
 ### 🎯 **2025 GOALS**
+
+<div style="background: rgba(102, 126, 234, 0.15); padding: 15px; border-radius: 8px;">
 
 ```yaml
 🚀 Master Advanced React Patterns
@@ -526,19 +530,26 @@
 🌟 Contribute to 10 Open Source Projects
 💼 Land Dream Developer Role
 ```
+
+</div>
+
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top" style="border: none; padding: 20px;">
 
-          ### 📈 **LEARNING STATS**
+### 📈 **LEARNING STATS**
 
-          ```yaml
-          📖 Books Read: 12+ technical books
-          🎥 Courses Completed: 25+ online courses
-          🏆 Certifications: 5+ industry certifications
-          💡 Side Projects: 15+ completed projects
-          🤝 Mentoring: Helping 3+ junior developers
-          📝 Blog Posts: Writing about my journey
-          ```
+<div style="background: rgba(118, 75, 162, 0.15); padding: 15px; border-radius: 8px;">
+
+```yaml
+📖 Books Read: 12+ technical books
+🎥 Courses Completed: 25+ online courses
+🏆 Certifications: 5+ industry certifications
+💡 Side Projects: 15+ completed projects
+🤝 Mentoring: Helping 3+ junior developers
+📝 Blog Posts: Writing about my journey
+```
+
+</div>
 
 </td>
     </tr>
@@ -553,20 +564,22 @@
 
 ## 📅 Recent Achievements & Milestones
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/✨-Launched_Portfolio-success?style=for-the-badge&logo=rocket" alt="Portfolio Launch" />
-        <p>🚀 Successfully deployed personal portfolio website</p>
+        <p><strong>🚀 Successfully deployed personal portfolio website</strong></p>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/📚-Completed_Course-blue?style=for-the-badge&logo=graduation-cap" alt="Course Complete" />
-        <p>🎓 Finished Advanced React Development course</p>
+        <p><strong>🎓 Finished Advanced React Development course</strong></p>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/🤝-Joined_Community-orange?style=for-the-badge&logo=people" alt="Community" />
-        <p>🌐 Active member of 3+ developer communities</p>
+        <p><strong>🌐 Active member of 3+ developer communities</strong></p>
       </td>
     </tr>
   </table>
@@ -575,8 +588,10 @@
 
 ## 📈 Contribution Activity
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" style="border-radius: 10px;" />
 </div>
 
 <!-- Random Dev Quote -->
@@ -619,7 +634,7 @@
 
 ---
   
-</div>
+</img>
 
 <!-- Animated Footer with Particle Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff00&animation=blinking&fontAlignY=75&desc=Keep%20coding%2C%20keep%20growing!&descSize=12&descColor=ffffff&descAlignY=90" alt="Animated Footer"/>
