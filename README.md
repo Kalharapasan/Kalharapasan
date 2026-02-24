@@ -152,10 +152,7 @@
   </table>
 </div>
 
-<!-- Coding Activity Heatmap -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Kalharapasan" alt="Kalharapasan's GitHub Activity" />
-</div>
+
 
 <!-- Enhanced GitHub Streak Stats with Working URLs -->
 <div align="center">
