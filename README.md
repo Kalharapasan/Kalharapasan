@@ -157,11 +157,6 @@
   <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
-<!-- Working Real-time Coding Activity -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
-</div>
-
 <!-- Featured Projects Showcase -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
@@ -544,30 +539,6 @@
   </table>
 </div>
 
-## 📊 Detailed Analytics
-
-<!-- Comprehensive GitHub Metrics -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Repos per Language" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Coding Activity Heatmap -->
 <div align="center">
   <img src="https://ghchart.rshah.org/00ff00/Kalharapasan" alt="Kalharapasan's GitHub Activity" />
@@ -666,11 +637,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Backup contribution visualization -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
-</div>
 
 </div>
 
