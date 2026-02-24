@@ -105,82 +105,16 @@
   </table>
 </div>
 
-<!-- Latest Updates Section -->
+<!-- Enhanced Profile Views with Animated Badges -->
 <div align="center">
-  <h2>⚡ Latest Updates & News</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <table align="center" style="width: 100%;">
-    <tr>
-      <td width="50%" align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/📢-Latest_News-blue?style=for-the-badge" alt="Latest" />
-        <p>
-          <strong>🚀 Currently Working On</strong><br/>
-          Building innovative full-stack applications and exploring AI/ML integrations
-        </p>
-      </td>
-      <td width="50%" align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/📚-Learning_Now-orange?style=for-the-badge" alt="Learning" />
-        <p>
-          <strong>🎓 Current Focus</strong><br/>
-          Advanced System Design, Microservices Architecture, and Cloud Technologies
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
 </div>
 
-<!-- Enhanced Stats Section -->
+<!-- Achievement Badges -->
 <div align="center">
-  <h2>📈 GitHub Stats & Performance Metrics</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <!-- Detailed GitHub Stats -->
-  <div style="background: rgba(102, 126, 234, 0.1); padding: 30px; border-radius: 15px; margin: 20px 0; border-left: 4px solid #667eea;">
-    <h3 style="color: #667eea; margin-bottom: 20px;">📊 GitHub Statistics</h3>
-    <table align="center" style="width: 100%; max-width: 600px;">
-      <tr>
-        <td align="center" style="padding: 15px;">
-          <div style="font-size: 24px;">⭐</div>
-          <p style="margin: 5px 0;"><strong>Total Stars</strong></p>
-          <p style="color: #00ff00; font-size: 18px; font-weight: bold; margin: 0;">160+</p>
-        </td>
-        <td align="center" style="padding: 15px;">
-          <div style="font-size: 24px;">📊</div>
-          <p style="margin: 5px 0;"><strong>Total Commits</strong></p>
-          <p style="color: #00d9ff; font-size: 18px; font-weight: bold; margin: 0;">3.3K+</p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" style="padding: 15px;">
-          <div style="font-size: 24px;">🔀</div>
-          <p style="margin: 5px 0;"><strong>Pull Requests</strong></p>
-          <p style="color: #ff6600; font-size: 18px; font-weight: bold; margin: 0;">43+</p>
-        </td>
-        <td align="center" style="padding: 15px;">
-          <div style="font-size: 24px;">⚠️</div>
-          <p style="margin: 5px 0;"><strong>Issues Reported</strong></p>
-          <p style="color: #ff3333; font-size: 18px; font-weight: bold; margin: 0;">2</p>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center" style="padding: 15px;">
-          <div style="font-size: 24px;">🤝</div>
-          <p style="margin: 5px 0;"><strong>Contributed To Repositories</strong></p>
-          <p style="color: #00ff00; font-size: 18px; font-weight: bold; margin: 0;">126+</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Quick Performance Badges -->
-  <div style="margin: 20px 0;">
-    <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  </div>
-  
-  <br/>
-  
   <img src="https://img.shields.io/badge/Years%20of%20Experience-2%2B-blue?style=for-the-badge&logo=calendar" alt="experience" />
   <img src="https://img.shields.io/badge/Projects%20Completed-15%2B-green?style=for-the-badge&logo=checkmarx" alt="projects" />
   <img src="https://img.shields.io/badge/Code%20Quality-A%2B-yellow?style=for-the-badge&logo=codeclimate" alt="quality" />
@@ -192,118 +126,119 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+future+with+code;💡+Turning+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Animated Banner" />
 </div>
 
-<!-- Testimonials & Social Proof Section -->
+<!-- Enhanced Stats Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Enhanced Trophies with Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>💬 What People Say About Me</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <table>
-    <tr>
-      <td width="33%" align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
-        <p><strong>Amazing Developer</strong></p>
-        <p><em>"Exceptional coding skills and great problem solver"</em></p>
-      </td>
-      <td width="33%" align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
-        <p><strong>Great Communicator</strong></p>
-        <p><em>"Clear explanation and collaborative partner"</em></p>
-      </td>
-      <td width="33%" align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
-        <p><strong>Reliable Team Member</strong></p>
-        <p><em>"Delivers quality work on time, every time"</em></p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Kalharapasan" />
+  </a>
 </div>
 
-<!-- GitHub Stats Section with Better Layout -->
-<div align="center">
-  <h2>📊 GitHub Analytics Dashboard</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalharapasan&theme=github_dark" alt="GitHub Contribution Graph" style="border-radius: 10px; margin: 20px 0;" />
-</div>
+## 📊 GitHub Analytics
 
-<!-- Stats Grid -->
+<!-- Dynamic Stats with Animated Charts -->
 <div align="center">
   <table>
     <tr>
       <!-- Left side - Most Used Languages -->
-      <td width="50%">
-        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Top Languages" style="border-radius: 10px;" />
+      <td>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kalharapasan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&border_radius=15&langs_count=10" alt="Top Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
-      <td width="50%">
-        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats" style="border-radius: 10px;" />
+      <td>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kalharapasan&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" style="border-radius: 10px;" />
+<!-- Enhanced GitHub Streak Stats with Working URLs -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
+<!-- Working Real-time Coding Activity -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalharapasan&theme=github_dark" alt="Profile Summary" />
+</div>
 
 <!-- Featured Projects Showcase -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
+
+# 🚀 Featured Projects
+
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
-  <p>Select projects showcasing my expertise and passion for building exceptional solutions</p>
-  
   <table>
     <tr>
-      <td width="50%" align="center" style="boundary: none; padding: 20px;">
-        <img src="https://img.shields.io/badge/Featured-Project_1-blue?style=for-the-badge&logo=github" alt="Project 1" />
-        <h4>🌟 Project Name Here</h4>
-        <p>Brief description of your featured project and its impact</p>
-        <a href="https://github.com/Kalharapasan">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat-square&logo=web" />
-        </a>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🌟 Portfolio Website</h3>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <p>🚀 Modern responsive portfolio showcasing my projects and skills with dynamic animations and interactive UI components.</p>
+          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
+        </div>
       </td>
-      <td width="50%" align="center" style="boundary: none; padding: 20px;">
-        <img src="https://img.shields.io/badge/Featured-Project_2-blue?style=for-the-badge&logo=github" alt="Project 2" />
-        <h4>💡 Another Great Project</h4>
-        <p>Your innovative solution that made a real difference</p>
-        <a href="https://github.com/Kalharapasan">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat-square&logo=web" />
-        </a>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🛍️ E-Commerce Platform</h3>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+          <p>🛒 Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.</p>
+          <img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge" alt="Status" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>📱 Task Management App</h3>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+          <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+          <p>📋 Cross-platform mobile app for task management with real-time sync and team collaboration features.</p>
+          <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Status" />
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🤖 AI Chat Bot</h3>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+          <p>🧠 Intelligent chatbot powered by machine learning with natural language processing capabilities.</p>
+          <img src="https://img.shields.io/badge/Status-Research-purple?style=for-the-badge" alt="Status" />
+        </div>
       </td>
     </tr>
   </table>
-  
-  <!-- Project Repository Links -->
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-    </a>
-    <a href="https://github.com/Kalharapasan" target="_blank">
-      <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
-    </a>
-    <a href="mailto:kalharap84@gmail.com">
-      <img src="https://img.shields.io/badge/Collaborate-45B7D1?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
-    </a>
-  </div>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🔔+Watch+for+updates+and+new+features;🤝+Contributions+and+feedback+are+always+welcome!" alt="Project CTA" />
+</div>
+
+<!-- Project Repository Links -->
+<div align="center">
+  <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+  <a href="https://github.com/Kalharapasan" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+  </a>
+  <a href="mailto:kalharap84@gmail.com">
+    <img src="https://img.shields.io/badge/Collaborate-45B7D1?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+  </a>
 </div>
 
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
-## 💻 My Favorite Tools & Technologies
-
-<div align="center">
-  <p style="font-size: 16px; color: #667eea; margin-bottom: 20px;">🚀 Skilled in modern technologies and always adapting to new tools</p>
-</div>
+# 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -548,18 +483,14 @@
   </tr>
 </table>
 
-## 📚 Learning Journey & Growth Roadmap
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 📚 Learning Journey & Goals
 
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td width="50%" valign="top" style="border: none; padding: 20px;">
+      <td width="50%" valign="top" style="border: none;">
 
 ### 🎯 **2025 GOALS**
-
-<div style="background: rgba(102, 126, 234, 0.15); padding: 15px; border-radius: 8px;">
 
 ```yaml
 🚀 Master Advanced React Patterns
@@ -569,26 +500,19 @@
 🌟 Contribute to 10 Open Source Projects
 💼 Land Dream Developer Role
 ```
-
-</div>
-
 </td>
-<td width="50%" valign="top" style="border: none; padding: 20px;">
+<td width="50%" valign="top" style="border: none;">
 
-### 📈 **LEARNING STATS**
+          ### 📈 **LEARNING STATS**
 
-<div style="background: rgba(118, 75, 162, 0.15); padding: 15px; border-radius: 8px;">
-
-```yaml
-📖 Books Read: 12+ technical books
-🎥 Courses Completed: 25+ online courses
-🏆 Certifications: 5+ industry certifications
-💡 Side Projects: 15+ completed projects
-🤝 Mentoring: Helping 3+ junior developers
-📝 Blog Posts: Writing about my journey
-```
-
-</div>
+          ```yaml
+          📖 Books Read: 12+ technical books
+          🎥 Courses Completed: 25+ online courses
+          🏆 Certifications: 5+ industry certifications
+          💡 Side Projects: 15+ completed projects
+          🤝 Mentoring: Helping 3+ junior developers
+          📝 Blog Posts: Writing about my journey
+          ```
 
 </td>
     </tr>
@@ -603,34 +527,110 @@
 
 ## 📅 Recent Achievements & Milestones
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center" style="padding: 20px;">
+      <td width="33%" align="center">
         <img src="https://img.shields.io/badge/✨-Launched_Portfolio-success?style=for-the-badge&logo=rocket" alt="Portfolio Launch" />
-        <p><strong>🚀 Successfully deployed personal portfolio website</strong></p>
+        <p>🚀 Successfully deployed personal portfolio website</p>
       </td>
-      <td width="33%" align="center" style="padding: 20px;">
+      <td width="33%" align="center">
         <img src="https://img.shields.io/badge/📚-Completed_Course-blue?style=for-the-badge&logo=graduation-cap" alt="Course Complete" />
-        <p><strong>🎓 Finished Advanced React Development course</strong></p>
+        <p>🎓 Finished Advanced React Development course</p>
       </td>
-      <td width="33%" align="center" style="padding: 20px;">
+      <td width="33%" align="center">
         <img src="https://img.shields.io/badge/🤝-Joined_Community-orange?style=for-the-badge&logo=people" alt="Community" />
-        <p><strong>🌐 Active member of 3+ developer communities</strong></p>
+        <p>🌐 Active member of 3+ developer communities</p>
       </td>
     </tr>
   </table>
 </div>
 
+## 📊 Detailed Analytics
+
+<!-- Comprehensive GitHub Metrics -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalharapasan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Coding Activity Heatmap -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff00/Kalharapasan" alt="Kalharapasan's GitHub Activity" />
+</div>
+
+<!-- Coding Stats Overview -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-20+-blue?style=for-the-badge&logo=github" alt="Repositories" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages_Used-10+-green?style=for-the-badge&logo=code" alt="Languages" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Years_Active-2+-purple?style=for-the-badge&logo=calendar" alt="Years Active" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=opensource" alt="Open Source" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Most+productive+hours%3A+Evening+%26+Night;📈+Peak+coding+days%3A+Tuesday+%26+Wednesday;🔥+Longest+streak%3A+30%2B+consecutive+days" alt="Activity Insights" />
+</div>
+
+## 📈 Weekly Development Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/This_Week-💻_32hrs-blue?style=for-the-badge" alt="Coding Hours" />
+        <p>Coding Hours</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Commits-🚀_47-green?style=for-the-badge" alt="Commits" />
+        <p>Total Commits</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Projects-🎨_3-orange?style=for-the-badge" alt="Projects" />
+        <p>Active Projects</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/Learning-📚_2_topics-purple?style=for-the-badge" alt="Learning" />
+        <p>New Technologies</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Enhanced Activity Graph with Neon Effects -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
 ## 📈 Contribution Activity
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" style="border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&bg_color=000000&color=00ff00&line=00ff41&point=ff6600&area=true&hide_border=true&custom_title=💚%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
 <!-- Random Dev Quote -->
@@ -669,11 +669,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalharapasan/Kalharapasan/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Backup contribution visualization -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Contribution Streak" />
+</div>
+
 </div>
 
 ---
   
-</img>
+</div>
 
 <!-- Animated Footer with Particle Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ff00&animation=blinking&fontAlignY=75&desc=Keep%20coding%2C%20keep%20growing!&descSize=12&descColor=ffffff&descAlignY=90" alt="Animated Footer"/>
@@ -683,60 +688,33 @@
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
   
-  <!-- Call to Action Section -->
-  <div style="margin: 30px 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px;">
-    <h3 style="color: white; margin: 0 0 15px 0;">🤝 Let's Build Something Extraordinary Together!</h3>
-    <p style="color: #ffffff; margin: 10px 0; font-size: 16px;">I'm always interested in hearing about new opportunities and collaborating on exciting projects.</p>
-    <div style="margin: 20px 0;">
-      <img src="https://img.shields.io/badge/💬-Open_to_Collaborations-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
-      <img src="https://img.shields.io/badge/📧-Contact_Me-green?style=for-the-badge&logo=mail&logoColor=white" alt="Contact" />
-      <img src="https://img.shields.io/badge/🤝-Mentorship-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
-    </div>
-  </div>
-  
-  <!-- Availability & Status -->
-  <div style="margin: 25px 0;">
-    <h4>📍 Status & Availability</h4>
-    <table align="center">
-      <tr>
-        <td align="center" style="padding: 10px;">
-          <img src="https://img.shields.io/badge/🌍-Based_In-Sri_Lanka-informational?style=for-the-badge" alt="Location" />
-        </td>
-        <td align="center" style="padding: 10px;">
-          <img src="https://img.shields.io/badge/🟢-Status-Open_for_Opportunities-success?style=for-the-badge" alt="Available" />
-        </td>
-        <td align="center" style="padding: 10px;">
-          <img src="https://img.shields.io/badge/💼-Remote_Work-Ready-blue?style=for-the-badge" alt="Remote Ready" />
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Quick Contact Info -->
-  <div style="margin: 25px 0; padding: 20px; background: rgba(102, 126, 234, 0.1); border-radius: 10px;">
-    <h4 style="color: #667eea; margin-bottom: 15px;">📞 Get In Touch</h4>
-    <p style="margin: 8px 0;">
-      <strong>📧 Email:</strong> kalharap84@gmail.com 
-      <img src="https://img.shields.io/badge/Response-24hrs-green?style=flat-square" alt="Response Time" />
-    </p>
-    <p style="margin: 8px 0;">
-      <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/pasan-kalhara/">linkedin.com/in/pasan-kalhara/</a>
-    </p>
-    <p style="margin: 8px 0;">
-      <strong>💻 GitHub:</strong> <a href="https://github.com/Kalharapasan">github.com/Kalharapasan</a>
-    </p>
-  </div>
-  
-  <!-- Visitor Counter -->
+  <!-- Call to Action -->
   <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/💬-Let's_Collaborate-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+    <img src="https://img.shields.io/badge/📧-Open_to_Opportunities-green?style=for-the-badge&logo=mail&logoColor=white" alt="Opportunities" />
+    <img src="https://img.shields.io/badge/🤝-Mentorship_Available-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
+  </div>
+  
+  <!-- Availability Status -->
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/🌍-Timezone-GMT%2B5:30_(Sri_Lanka)-informational?style=for-the-badge" alt="Timezone" />
+    <img src="https://img.shields.io/badge/🟢-Status-Available_for_Projects-success?style=for-the-badge" alt="Available" />
+    <img src="https://img.shields.io/badge/💼-Remote_Work-Ready-blue?style=for-the-badge" alt="Remote Ready" />
+  </div>
+  
+  <!-- Visitor Counter with Style -->
+  <div style="margin: 15px 0;">
     <img src="https://profile-counter.glitch.me/Kalharapasan/count.svg" alt="Visit Counter" />
   </div>
   
-  <!-- Inspirational Quote -->
-  <blockquote style="margin: 20px 0; padding: 15px; background: rgba(240, 147, 251, 0.1); border-left: 4px solid #f093fb; border-radius: 5px;">
-    <p style="color: #667eea; font-style: italic; font-weight: 600;">
-      "Great things are never done by one person. They're done by a team of people." — Steve Jobs
-    </p>
-  </blockquote>
+  <!-- Contact Preferences -->
+  <div style="margin: 20px 0;">
+    <h4 style="color: #00ff00;">🤝 Let's Build Something Amazing Together!</h4>
+    <p style="color: #ffffff; margin: 5px 0;">📧 Email: kalharap84@gmail.com (Best for project inquiries)</p>
+    <p style="color: #ffffff; margin: 5px 0;">💼 LinkedIn: Professional networking and collaborations</p>
+    <p style="color: #ffffff; margin: 5px 0;">💬 GitHub: Technical discussions and code reviews</p>
+    <p style="color: #00ff00; margin: 10px 0;">⚡ Quick Response: Usually within 24 hours</p>
+    <p style="color: #667EEA; margin: 10px 0; font-style: italic;">"Great things are never done by one person. They're done by a team of people." - Steve Jobs</p>
+  </div>
   
 </div>
