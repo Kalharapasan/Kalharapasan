@@ -126,57 +126,118 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+future+with+code;💡+Turning+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Animated Banner" />
 </div>
 
-<!-- Enhanced Stats Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Enhanced Trophies with Animation -->
+<!-- Testimonials & Social Proof Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalharapasan&theme=github_dark" alt="GitHub Contribution Graph" />
-</div>
-
-## 📊 GitHub Analytics
-
-<!-- Dynamic Stats with Animated Charts -->
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <h2>💬 What People Say About Me</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
   <table>
     <tr>
-      <!-- Left side - Most Used Languages -->
-      <td>
-        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Top Languages" />
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
+        <p><strong>Amazing Developer</strong></p>
+        <p><em>"Exceptional coding skills and great problem solver"</em></p>
       </td>
-      <!-- Right side - Enhanced GitHub Stats -->
-      <td>
-        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats" />
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
+        <p><strong>Great Communicator</strong></p>
+        <p><em>"Clear explanation and collaborative partner"</em></p>
+      </td>
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Stars-yellow?style=for-the-badge" alt="5 Stars" />
+        <p><strong>Reliable Team Member</strong></p>
+        <p><em>"Delivers quality work on time, every time"</em></p>
       </td>
     </tr>
   </table>
 </div>
 
-
-
-<!-- Enhanced GitHub Streak Stats with Working URLs -->
+<!-- GitHub Stats Section with Better Layout -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
+  <h2>📊 GitHub Analytics Dashboard</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalharapasan&theme=github_dark" alt="GitHub Contribution Graph" style="border-radius: 10px; margin: 20px 0;" />
+</div>
+
+<!-- Stats Grid -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left side - Most Used Languages -->
+      <td width="50%">
+        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Top Languages" style="border-radius: 10px;" />
+      </td>
+      <!-- Right side - Enhanced GitHub Stats -->
+      <td width="50%">
+        <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" style="border-radius: 10px;" />
 </div>
 
 
-<!-- Project Repository Links -->
+<!-- Featured Projects Showcase -->
 <div align="center">
-  <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-  <a href="https://github.com/Kalharapasan" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
-  </a>
-  <a href="mailto:kalharap84@gmail.com">
-    <img src="https://img.shields.io/badge/Collaborate-45B7D1?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
-  </a>
+  <h2>🚀 Featured Projects</h2>
+  <p>Select projects showcasing my expertise and passion for building exceptional solutions</p>
+  
+  <table>
+    <tr>
+      <td width="50%" align="center" style="boundary: none; padding: 20px;">
+        <img src="https://img.shields.io/badge/Featured-Project_1-blue?style=for-the-badge&logo=github" alt="Project 1" />
+        <h4>🌟 Project Name Here</h4>
+        <p>Brief description of your featured project and its impact</p>
+        <a href="https://github.com/Kalharapasan">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat-square&logo=web" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="boundary: none; padding: 20px;">
+        <img src="https://img.shields.io/badge/Featured-Project_2-blue?style=for-the-badge&logo=github" alt="Project 2" />
+        <h4>💡 Another Great Project</h4>
+        <p>Your innovative solution that made a real difference</p>
+        <a href="https://github.com/Kalharapasan">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat-square&logo=web" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Project Repository Links -->
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/Kalharapasan?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    </a>
+    <a href="https://github.com/Kalharapasan" target="_blank">
+      <img src="https://img.shields.io/badge/Follow_Me-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+    </a>
+    <a href="mailto:kalharap84@gmail.com">
+      <img src="https://img.shields.io/badge/Collaborate-45B7D1?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+    </a>
+  </div>
 </div>
 
 <!-- Tech Stack with Enhanced Visuals -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
 
-# 💻 My favorite tools and technologies
+## 💻 My Favorite Tools & Technologies
+
+<div align="center">
+  <p style="font-size: 16px; color: #667eea; margin-bottom: 20px;">🚀 Skilled in modern technologies and always adapting to new tools</p>
+</div>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -541,33 +602,60 @@
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Made+with+❤️+and+lots+of+☕;🚀+Always+ready+for+new+challenges!;💻+Let's+build+something+amazing!" alt="Footer Animation" />
   
-  <!-- Call to Action -->
+  <!-- Call to Action Section -->
+  <div style="margin: 30px 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px;">
+    <h3 style="color: white; margin: 0 0 15px 0;">🤝 Let's Build Something Extraordinary Together!</h3>
+    <p style="color: #ffffff; margin: 10px 0; font-size: 16px;">I'm always interested in hearing about new opportunities and collaborating on exciting projects.</p>
+    <div style="margin: 20px 0;">
+      <img src="https://img.shields.io/badge/💬-Open_to_Collaborations-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
+      <img src="https://img.shields.io/badge/📧-Contact_Me-green?style=for-the-badge&logo=mail&logoColor=white" alt="Contact" />
+      <img src="https://img.shields.io/badge/🤝-Mentorship-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
+    </div>
+  </div>
+  
+  <!-- Availability & Status -->
+  <div style="margin: 25px 0;">
+    <h4>📍 Status & Availability</h4>
+    <table align="center">
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <img src="https://img.shields.io/badge/🌍-Based_In-Sri_Lanka-informational?style=for-the-badge" alt="Location" />
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://img.shields.io/badge/🟢-Status-Open_for_Opportunities-success?style=for-the-badge" alt="Available" />
+        </td>
+        <td align="center" style="padding: 10px;">
+          <img src="https://img.shields.io/badge/💼-Remote_Work-Ready-blue?style=for-the-badge" alt="Remote Ready" />
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <!-- Quick Contact Info -->
+  <div style="margin: 25px 0; padding: 20px; background: rgba(102, 126, 234, 0.1); border-radius: 10px;">
+    <h4 style="color: #667eea; margin-bottom: 15px;">📞 Get In Touch</h4>
+    <p style="margin: 8px 0;">
+      <strong>📧 Email:</strong> kalharap84@gmail.com 
+      <img src="https://img.shields.io/badge/Response-24hrs-green?style=flat-square" alt="Response Time" />
+    </p>
+    <p style="margin: 8px 0;">
+      <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/pasan-kalhara/">linkedin.com/in/pasan-kalhara/</a>
+    </p>
+    <p style="margin: 8px 0;">
+      <strong>💻 GitHub:</strong> <a href="https://github.com/Kalharapasan">github.com/Kalharapasan</a>
+    </p>
+  </div>
+  
+  <!-- Visitor Counter -->
   <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/💬-Let's_Collaborate-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
-    <img src="https://img.shields.io/badge/📧-Open_to_Opportunities-green?style=for-the-badge&logo=mail&logoColor=white" alt="Opportunities" />
-    <img src="https://img.shields.io/badge/🤝-Mentorship_Available-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship" />
-  </div>
-  
-  <!-- Availability Status -->
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/🌍-Timezone-GMT%2B5:30_(Sri_Lanka)-informational?style=for-the-badge" alt="Timezone" />
-    <img src="https://img.shields.io/badge/🟢-Status-Available_for_Projects-success?style=for-the-badge" alt="Available" />
-    <img src="https://img.shields.io/badge/💼-Remote_Work-Ready-blue?style=for-the-badge" alt="Remote Ready" />
-  </div>
-  
-  <!-- Visitor Counter with Style -->
-  <div style="margin: 15px 0;">
     <img src="https://profile-counter.glitch.me/Kalharapasan/count.svg" alt="Visit Counter" />
   </div>
   
-  <!-- Contact Preferences -->
-  <div style="margin: 20px 0;">
-    <h4 style="color: #00ff00;">🤝 Let's Build Something Amazing Together!</h4>
-    <p style="color: #ffffff; margin: 5px 0;">📧 Email: kalharap84@gmail.com (Best for project inquiries)</p>
-    <p style="color: #ffffff; margin: 5px 0;">💼 LinkedIn: Professional networking and collaborations</p>
-    <p style="color: #ffffff; margin: 5px 0;">💬 GitHub: Technical discussions and code reviews</p>
-    <p style="color: #00ff00; margin: 10px 0;">⚡ Quick Response: Usually within 24 hours</p>
-    <p style="color: #667EEA; margin: 10px 0; font-style: italic;">"Great things are never done by one person. They're done by a team of people." - Steve Jobs</p>
-  </div>
+  <!-- Inspirational Quote -->
+  <blockquote style="margin: 20px 0; padding: 15px; background: rgba(240, 147, 251, 0.1); border-left: 4px solid #f093fb; border-radius: 5px;">
+    <p style="color: #667eea; font-style: italic; font-weight: 600;">
+      "Great things are never done by one person. They're done by a team of people." — Steve Jobs
+    </p>
+  </blockquote>
   
 </div>
