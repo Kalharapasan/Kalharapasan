@@ -132,15 +132,54 @@
 
 <!-- Enhanced Stats Section -->
 <div align="center">
-  <h2>📈 Quick Performance Metrics</h2>
+  <h2>📈 GitHub Stats & Performance Metrics</h2>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Kalharapasan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=for-the-badge&logo=checkmarx" alt="status" />
+  <!-- Detailed GitHub Stats -->
+  <div style="background: rgba(102, 126, 234, 0.1); padding: 30px; border-radius: 15px; margin: 20px 0; border-left: 4px solid #667eea;">
+    <h3 style="color: #667eea; margin-bottom: 20px;">📊 GitHub Statistics</h3>
+    <table align="center" style="width: 100%; max-width: 600px;">
+      <tr>
+        <td align="center" style="padding: 15px;">
+          <div style="font-size: 24px;">⭐</div>
+          <p style="margin: 5px 0;"><strong>Total Stars</strong></p>
+          <p style="color: #00ff00; font-size: 18px; font-weight: bold; margin: 0;">160+</p>
+        </td>
+        <td align="center" style="padding: 15px;">
+          <div style="font-size: 24px;">📊</div>
+          <p style="margin: 5px 0;"><strong>Total Commits</strong></p>
+          <p style="color: #00d9ff; font-size: 18px; font-weight: bold; margin: 0;">3.3K+</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="padding: 15px;">
+          <div style="font-size: 24px;">🔀</div>
+          <p style="margin: 5px 0;"><strong>Pull Requests</strong></p>
+          <p style="color: #ff6600; font-size: 18px; font-weight: bold; margin: 0;">43+</p>
+        </td>
+        <td align="center" style="padding: 15px;">
+          <div style="font-size: 24px;">⚠️</div>
+          <p style="margin: 5px 0;"><strong>Issues Reported</strong></p>
+          <p style="color: #ff3333; font-size: 18px; font-weight: bold; margin: 0;">2</p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" style="padding: 15px;">
+          <div style="font-size: 24px;">🤝</div>
+          <p style="margin: 5px 0;"><strong>Contributed To Repositories</strong></p>
+          <p style="color: #00ff00; font-size: 18px; font-weight: bold; margin: 0;">126+</p>
+        </td>
+      </tr>
+    </table>
+  </div>
   
-  <br/><br/>
+  <!-- Quick Performance Badges -->
+  <div style="margin: 20px 0;">
+    <img src="https://komarev.com/ghpvc/?username=Kalharapasan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/Kalharapasan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  </div>
+  
+  <br/>
   
   <img src="https://img.shields.io/badge/Years%20of%20Experience-2%2B-blue?style=for-the-badge&logo=calendar" alt="experience" />
   <img src="https://img.shields.io/badge/Projects%20Completed-15%2B-green?style=for-the-badge&logo=checkmarx" alt="projects" />
