@@ -131,16 +131,9 @@
 
 <!-- Enhanced Trophies with Animation -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats Card" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalharapasan&theme=github_dark" alt="Most Commit Language" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Kalharapasan" />
+  </a>
 </div>
 
 ## 📊 GitHub Analytics
@@ -151,11 +144,11 @@
     <tr>
       <!-- Left side - Most Used Languages -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalharapasan&theme=github_dark" alt="Top Languages" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalharapasan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&border_radius=15&langs_count=10&card_width=420" alt="Top Languages" />
       </td>
       <!-- Right side - Enhanced GitHub Stats -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalharapasan&theme=github_dark" alt="GitHub Stats" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kalharapasan&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true&border_radius=15&rank_icon=github" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
