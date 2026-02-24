@@ -159,59 +159,6 @@
   <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=dark&hide_border=true&background=0D1117&stroke=00ff00&ring=ff6600&fire=ff6600&currStreakLabel=00ff00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
-<!-- Featured Projects Showcase -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="Gradient Divider"/>
-
-# 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🌟 Portfolio Website</h3>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-          <p>🚀 Modern responsive portfolio showcasing my projects and skills with dynamic animations and interactive UI components.</p>
-          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🛍️ E-Commerce Platform</h3>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-          <p>🛒 Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.</p>
-          <img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge" alt="Status" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>📱 Task Management App</h3>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-          <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-          <p>📋 Cross-platform mobile app for task management with real-time sync and team collaboration features.</p>
-          <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Status" />
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🤖 AI Chat Bot</h3>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-          <p>🧠 Intelligent chatbot powered by machine learning with natural language processing capabilities.</p>
-          <img src="https://img.shields.io/badge/Status-Research-purple?style=for-the-badge" alt="Status" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🔔+Watch+for+updates+and+new+features;🤝+Contributions+and+feedback+are+always+welcome!" alt="Project CTA" />
