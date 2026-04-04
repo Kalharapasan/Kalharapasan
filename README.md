@@ -28,46 +28,27 @@
   Full Stack Developer | Software Engineer from Sri Lanka, focused on building scalable web applications and practical digital products.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Currently Working On</strong>
-      <ul>
-        <li>Scalable web applications</li>
-        <li>Portfolio, Task App, Learning Platform</li>
-      </ul>
+### Currently Working On
 
-    </td>
-    <td width="50%" valign="top">
-      <strong>Currently Learning</strong>
-      <ul>
-        <li>Advanced System Design</li>
-        <li>Microservices Architecture</li>
-        <li>Kubernetes &amp; Docker</li>
-      </ul>
+- Scalable web applications
+- Portfolio, Task App, Learning Platform
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Open To Collaborate On</strong>
-      <ul>
-        <li>Open Source projects</li>
-        <li>Innovative mobile and web applications</li>
-      </ul>
+### Currently Learning
 
-    </td>
-    <td width="50%" valign="top">
-      <strong>Quick Facts</strong>
-      <ul>
-        <li>Based in Sri Lanka 🇱🇰</li>
-        <li>Email: kalharap84@gmail.com</li>
-        <li>Fun fact: I turn coffee into code ☕→💻</li>
-      </ul>
+- Advanced System Design
+- Microservices Architecture
+- Kubernetes & Docker
 
-    </td>
-  </tr>
-</table>
+### Open To Collaborate On
+
+- Open Source projects
+- Innovative mobile and web applications
+
+### Quick Facts
+
+- Based in Sri Lanka 🇱🇰
+- Email: kalharap84@gmail.com
+- Fun fact: I turn coffee into code ☕→💻
 
 ---
 
