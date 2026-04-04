@@ -76,22 +76,6 @@
 
 ---
 
-## 🏅 Favorite Stack
-
-<div align="center">
-
-| 🗂️ Category | 💡 Favorites |
-|:-----------:|:------------:|
-| **Languages** | JavaScript · TypeScript · Python · C# |
-| **Frontend** | React · Next.js · Vue.js · Flutter |
-| **Backend** | Node.js · NestJS · Django · FastAPI |
-| **Databases** | PostgreSQL · MongoDB · MySQL · Firebase |
-| **Cloud** | AWS · Azure · GCP · Docker · Kubernetes |
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1a1a2e&height=2"/>
