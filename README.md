@@ -48,7 +48,6 @@
 
 - Based in Sri Lanka 🇱🇰
 - Email: kalharap84@gmail.com
-- Fun fact: I turn coffee into code ☕→💻
 
 ---
 
