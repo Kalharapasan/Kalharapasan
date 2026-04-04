@@ -48,8 +48,17 @@
 
 - Based in Sri Lanka 🇱🇰
 - Email: kalharap84@gmail.com
+- Fun fact: I turn coffee into code ☕→💻
 
----
+
+### Favorite Languages & Frameworks
+
+| Category | Favorites |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, C# |
+| Frameworks | React, Next.js, Node.js, Flutter |
+| Backend | Express.js, NestJS, Django, FastAPI |
+
 
 ## 🌐 Connect With Me
 
