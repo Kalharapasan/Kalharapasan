@@ -24,27 +24,50 @@
 
 ## 💫 About Me
 
-```yaml
-name:       P.R.P.S. Kalhara
-title:      Full Stack Developer | Software Engineer
-location:   Sri Lanka 🇱🇰
-email:      kalharap84@gmail.com
+<p align="center">
+  Full Stack Developer | Software Engineer from Sri Lanka, focused on building scalable web applications and practical digital products.
+</p>
 
-currently_working_on:
-  - Scalable web applications
-  - Portfolio, Task App, Learning Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Currently Working On</strong>
+      <ul>
+        <li>Scalable web applications</li>
+        <li>Portfolio, Task App, Learning Platform</li>
+      </ul>
 
-currently_learning:
-  - Advanced System Design
-  - Microservices Architecture
-  - Kubernetes & Docker
+    </td>
+    <td width="50%" valign="top">
+      <strong>Currently Learning</strong>
+      <ul>
+        <li>Advanced System Design</li>
+        <li>Microservices Architecture</li>
+        <li>Kubernetes &amp; Docker</li>
+      </ul>
 
-open_to_collaborate_on:
-  - Open Source projects
-  - Innovative mobile & web applications
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Open To Collaborate On</strong>
+      <ul>
+        <li>Open Source projects</li>
+        <li>Innovative mobile and web applications</li>
+      </ul>
 
-fun_fact: "I turn coffee into code ☕→💻"
-```
+    </td>
+    <td width="50%" valign="top">
+      <strong>Quick Facts</strong>
+      <ul>
+        <li>Based in Sri Lanka 🇱🇰</li>
+        <li>Email: kalharap84@gmail.com</li>
+        <li>Fun fact: I turn coffee into code ☕→💻</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
