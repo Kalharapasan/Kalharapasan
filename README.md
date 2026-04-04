@@ -1,4 +1,20 @@
 # 💫 About Me:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="Matrix Code Rain" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+        <br/>
+      </td>
+      <td align="center">
+        <img alt="Hacker Typing" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">  
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 Name: P.R.P.S. Kalhara<br><br>Title: Full Stack Developer | Software Engineer<br><br>Location: Sri Lanka 🇱🇰<br><br>Working on: Scalable web applications (Portfolio, Task App, Learning Platform)<br><br>Learning: Advanced System Design, Microservices Architecture, Kubernetes & Docker<br><br>Collaborate on: Open Source projects and innovative mobile/web apps<br><br>Email: kalharap84@gmail.com
 
 
