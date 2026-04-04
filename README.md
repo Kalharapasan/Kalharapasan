@@ -158,7 +158,7 @@ fun_fact: "I turn coffee into code ☕→💻"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kalharapasan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kalharapasan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Kalharapasan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
@@ -170,7 +170,7 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -183,17 +183,13 @@ fun_fact: "I turn coffee into code ☕→💻"
 
 ---
 
-### 🔝 Top Contributed Repositories
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kalharapasan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalharapasan&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea6d4be8ced/bottom_header.svg" />
-</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
