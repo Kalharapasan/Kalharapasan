@@ -1,21 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+P.R.P.S.+Kalhara;Full+Stack+Developer;Software+Engineer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+P.R.P.S.+Kalhara;Full+Stack+Developer;Software+Engineer;Always+learning+new+things!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center">
-        <img alt="Matrix Code Rain" width="340" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="border-radius:10px"/>
+        <img alt="Matrix Code Rain" width="340" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
       </td>
       <td align="center">
-        <img alt="Hacker Typing" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="border-radius:10px"/>
+        <img alt="Hacker Typing" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -53,11 +51,11 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/pasan-kalhara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pasan-kalhara/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kalharap84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
