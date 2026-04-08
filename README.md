@@ -35,7 +35,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> *Full Stack Developer & Software Engineer from Sri Lanka 🇱🇰, passionate about building scalable web applications and practical digital products that make a difference.*
+> *Dedicated and results driven Software Engineering undergraduate with a versatile technical background spanning Web, Mobile, AI, and Embedded systems. I possess a unique 'Full Spectrum' development capability, ranging from architecting scalable full stack applications using MERN, Django, and Laravel to designing intelligent IoT solutions with Arduino and Computer Vision. With a portfolio of over 10 high impact projects, I have demonstrated expertise in transforming complex requirements into efficient, secure, and user-centric digital products. As a proactive problem solver currently advancing my knowledge in Microservices and System Design, I am committed to leveraging my cross platform proficiency and continuous learning mindset to contribute to innovative software engineering teams.*
 
 <br/>
 
