@@ -328,20 +328,45 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalharapasan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <strong>Total Contributions</strong><br/>
+        7,437
+      </td>
+      <td align="center" width="180">
+        <strong>Current Streak</strong><br/>
+        6
+      </td>
+      <td align="center" width="180">
+        <strong>Longest Streak</strong><br/>
+        57
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalharapasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
-</div>
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0e75b6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-0e75b6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-0e75b6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-0e75b6?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-0e75b6?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-0e75b6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/Kalharapasan?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
+  </a>
 </p>
 
 ---
