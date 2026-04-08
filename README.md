@@ -328,12 +328,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalharapasan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalharapasan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalharapasan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalharapasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
 </div>
 
 ---
@@ -341,7 +341,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalharapasan&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
