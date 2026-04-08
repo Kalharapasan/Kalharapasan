@@ -40,16 +40,16 @@
 <br/>
 
 ### 🔭 Currently Working On
-&nbsp;&nbsp;&nbsp;&nbsp;▸ Scalable web applications, Portfolio, Task App, Learning Platform
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Building scalable web apps, portfolio projects, and a task management platform
 
 ### 🌱 Currently Learning
-&nbsp;&nbsp;&nbsp;&nbsp;▸ Advanced System Design · Microservices Architecture · Kubernetes & Docker
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Advanced system design · microservices architecture · Docker & Kubernetes
 
 ### 🤝 Open To Collaborate On
-&nbsp;&nbsp;&nbsp;&nbsp;▸ Open Source Projects · Innovative Mobile & Web Applications
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Open-source projects · innovative mobile apps · modern web applications
 
 ### ⚡ Fun Fact
-&nbsp;&nbsp;&nbsp;&nbsp;▸ I turn coffee into code ☕ → 💻
+&nbsp;&nbsp;&nbsp;&nbsp;▸ I turn coffee into code and bugs into features ☕ → 💻
 
 ### 📬 Reach Me At
 &nbsp;&nbsp;&nbsp;&nbsp;▸ **kalharap84@gmail.com**
