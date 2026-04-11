@@ -338,18 +338,6 @@
 
 ---
 
-## 📌 GitHub Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats Card" width="49%"/>
-</div>
-
-<div align="center">
-  <sub>These cards update automatically from your GitHub activity and commit history.</sub>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
