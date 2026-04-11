@@ -331,10 +331,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats" height="200" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Languages by Commit" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=tokyonight" alt="Top Languages by Commit" height="200" />
       </td>
     </tr>
   </table>
