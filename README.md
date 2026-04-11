@@ -349,7 +349,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=kalharapasan&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=kalharapasan&theme=algolia&column=6&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="92%"/>
 </p>
 
 ---
