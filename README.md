@@ -342,7 +342,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats Card" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=tokyonight" alt="Most Used Languages Card" width="49%"/>
 </div>
 
 <div align="center">
