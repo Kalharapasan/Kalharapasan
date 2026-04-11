@@ -328,12 +328,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kalharapasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Languages by Commit" height="200" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=tokyonight" alt="Top Languages by Commit" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=kalharapasan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
 </div>
 
 ---
