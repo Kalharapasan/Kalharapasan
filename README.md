@@ -382,10 +382,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalharapasan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer&animation=fadeIn"/>
