@@ -336,6 +336,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
 </div>
 
+---
+
 ## 📌 GitHub Summary Cards
 
 <div align="center">
