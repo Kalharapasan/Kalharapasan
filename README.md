@@ -330,11 +330,11 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center" valign="top">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats" height="200" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalharapasan&theme=tokyonight" alt="Top Languages by Commit" height="200" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" height="200" />
       </td>
     </tr>
   </table>
