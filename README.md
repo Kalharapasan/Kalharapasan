@@ -334,7 +334,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalharapasan&theme=tokyonight" alt="GitHub Stats" height="200" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharapasan&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalharapasan&theme=tokyonight" alt="Most Used Languages" height="200" />
       </td>
     </tr>
   </table>
