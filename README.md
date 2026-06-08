@@ -109,12 +109,12 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
         <br>C#
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
         <br>Django
@@ -135,6 +135,8 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
         <br>CSS
@@ -147,8 +149,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br>Tailwind
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
